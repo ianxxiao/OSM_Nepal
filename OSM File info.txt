@@ -1,0 +1,5 @@
+File source: https://s3.amazonaws.com/metro-extracts.mapzen.com/kathmandu_nepal.osm.bz2
+
+Description: This is a XML file that covers the city of Kathmandu, Nepal. 
+
+File Size (Compressed): 47.2MB

@@ -1,0 +1,1224 @@
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d5a8a'), u'location': [27.7158423, 85.2892175]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d6387'), u'Name': u'Palyul Retreat Centre - Penor Rinpoche Society', u'location': [27.6148145, 85.2674239]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d6395'), u'Name': u'Yangle Sho Cave', u'location': [27.6164131, 85.2640437]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d6500'), u'Name': u'Asura Cave', u'location': [27.6130994, 85.2604793]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d6502'), u'Name': u'Vajrayogini Temple', u'location': [27.6137296, 85.261955]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d6661'), u'Name': u'Dhakshakali', u'location': [27.6052498, 85.2634583]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d7705'), u'Name': u'Ashok Stupa', u'location': [27.6761548, 85.3206322]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d815c'), u'Name': u'stupa', u'location': [27.5864571, 85.5751024]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d8171'), u'Name': u'Kagyu-Monastery', u'location': [27.5711757, 85.5826357]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d8183'), u'location': [27.5708965, 85.5812577]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d818e'), u'Name': u'Namo Buddha Stupa', u'location': [27.5732357, 85.5825667]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d823d'), u'location': [27.5853065, 85.5185238]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d82f7'), u'Name': u'Bajra Barahi Temple', u'location': [27.6060799, 85.3293589]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d839c'), u'Name': u'Tharek Gompa', u'location': [27.6125372, 85.2613346]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d83a9'), u'Name': u'stupa', u'location': [27.6124832, 85.2610868]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d83be'), u'Name': u'Mahabuddha-Temple', u'location': [27.6689984, 85.3271415]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d83ca'), u'Name': u'stupa', u'location': [27.6999914, 85.3046619]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d83ce'), u'Name': u'Annapurna Temple', u'location': [27.7071202, 85.3127818]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7d8cc3'), u'location': [27.6770348, 85.309758]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7d8f26'), u'Name': u'Patan Hospital', u'location': [27.668562, 85.320379]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d95a0'), u'Name': u'Stupa with remains of Chagdud Tulku Rinpoche', u'location': [27.6011347, 85.246093]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7d9640'), u'location': [27.7120545, 85.3157522]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7d975d'), u'Name': u'Star Hospital', u'location': [27.6842564, 85.301107]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7d976c'), u'Name': u'Star Pharmacy', u'location': [27.6842374, 85.300871]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7d977e'), u'Name': u'Shree Tribhuwan Chandra Sainik Hospital', u'location': [27.7037116, 85.3133382]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7d978c'), u'Name': u'Sanepa Health Post', u'location': [27.6850364, 85.3021077]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da060'), u'Name': u'Balkumari Temple', u'location': [27.6720128, 85.3358972]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7da449'), u'Name': u'Manmohan Memorial Hospital', u'location': [27.7179394, 85.3112441]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da49e'), u'Name': u'Shrine', u'location': [27.604738, 85.2623608]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da4eb'), u'Name': u'Nardevi Temple', u'location': [27.7077724, 85.3072942]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da4f3'), u'Name': u'Tahiti Stupa', u'location': [27.7104283, 85.310888]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da4f6'), u'Name': u'Bhodi Tree', u'location': [27.705133, 85.307694]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da5d2'), u'Name': u'Ganesh Shrine', u'location': [27.6701015, 85.4278033]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7da61c'), u'location': [27.6668481, 85.4366047]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da639'), u'location': [27.6473432, 85.4467281]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da66a'), u'Name': u'Mahendreshvar Temple', u'location': [27.7053983, 85.307693]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7da680'), u'Name': u'Dent Inn - The Dental Clinic', u'location': [27.7087386, 85.3184116]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da889'), u'Name': u'Chabahil Ganeshsthan', u'location': [27.7166246, 85.344661]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da898'), u'location': [27.7224571, 85.3654008]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7da8c7'), u'Name': u'Shechen Gompa', u'location': [27.7244555, 85.3608393]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7dafa5'), u'location': [27.7290561, 85.3470286]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dafb0'), u'Name': u'Bhatbhateni Temple', u'location': [27.7195904, 85.3310708]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dc319'), u'Name': u'Western Ashok Stupa', u'location': [27.6771985, 85.3161569]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dc57e'), u'Name': u'Buddhist Monastry (2137m)', u'location': [27.8318181, 85.4489674]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dcd11'), u'Name': u'Krishna Temple', u'location': [27.6618348, 85.3427187]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140d17cac0125f7dce01'), u'location': [27.669703, 85.3282161]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140d17cac0125f7dd1ac'), u'location': [27.6899277, 85.530922]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dd1af'), u'Name': u'Gumba Temple', u'location': [27.6555503, 85.541714]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140d17cac0125f7dd1bc'), u'location': [27.6777381, 85.5342046]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dd653'), u'Name': u'Kali Temple', u'location': [27.6105716, 85.5680823]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7dd886'), u'location': [27.5749779, 85.5596446]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7dde39'), u'Name': u'Red Cross', u'location': [27.5840061, 85.5134905]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde3b'), u'Name': u'Small Buddhist Shrine', u'location': [27.5837064, 85.5131685]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde3d'), u'Name': u'Ganesh Mandir', u'location': [27.5855531, 85.5140478]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde48'), u'Name': u'bhagwati temple', u'location': [27.5856821, 85.517274]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde4b'), u'Name': u'small Hindu Shrine', u'location': [27.5835045, 85.5145972]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde4c'), u'Name': u'Hindu Shrine', u'location': [27.5853195, 85.5154594]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde4e'), u'Name': u'Saraswoti Temple', u'location': [27.5860957, 85.5132788]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde50'), u'Name': u'brahmayeni temple', u'location': [27.5843867, 85.5148571]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde53'), u'Name': u'small Hindi Shrine', u'location': [27.5842566, 85.5164309]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde54'), u'Name': u'small Hindu shrine', u'location': [27.5838166, 85.5156516]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde56'), u'Name': u'Small Hindu Shrine', u'location': [27.584327, 85.5166403]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde59'), u'Name': u'Sorhakhutte Stupa', u'location': [27.5846056, 85.5149835]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde5a'), u'location': [27.5846035, 85.5148178]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde5f'), u'Name': u'Unmota Bhirab', u'location': [27.5849709, 85.5175075]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde66'), u'Name': u'Tole Narayan', u'location': [27.5851463, 85.5171063]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde67'), u'Name': u'Vishowar Temple', u'location': [27.5852245, 85.5173423]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7dde78'), u'Name': u'indreswor temple', u'location': [27.585177, 85.5174604]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7de21d'), u'Name': u'Lohan Degaa', u'location': [27.6778881, 85.277682]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7de21e'), u'Name': u'Chilandeo Stupa', u'location': [27.6769775, 85.2779965]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7de552'), u'Name': u'Ganesh Shrine', u'location': [27.7237879, 85.5435042]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140d17cac0125f7de554'), u'Name': u'Baluwa Health Sub- Post', u'location': [27.7237581, 85.5434112]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7def3f'), u'location': [27.6615124, 85.3057071]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7def42'), u'location': [27.668221, 85.3061631]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7def43'), u'Name': u'Bishnu Devi Temple', u'location': [27.6653665, 85.3057591]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7def93'), u'location': [27.6604766, 85.3016141]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7defcd'), u'Name': u'Kan Devata Than', u'location': [27.6867056, 85.3172406]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7defce'), u'Name': u'Prashuti Griha (\u092a\u094d\u0930\u0938\u0942\u0924\u093f \u0917\u0943\u0939)', u'location': [27.6907007, 85.3145854]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df038'), u'Name': u'Ram Temple', u'location': [27.7004708, 85.3046342]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df03a'), u'Name': u'Machali Temple', u'location': [27.6964554, 85.3054665]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df03d'), u'Name': u'Prakash Pharmacia', u'location': [27.6960583, 85.3073164]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140d17cac0125f7df03f'), u'location': [27.7005563, 85.304527]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df073'), u'Name': u'Atako Narayan Temple', u'location': [27.7030165, 85.3060612]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df07b'), u'Name': u'Lakhae House', u'location': [27.7014444, 85.3046825]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df07d'), u'Name': u'Jor Ganesh Temple', u'location': [27.7016677, 85.3074345]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df08a'), u'Name': u'Jain Temple', u'location': [27.7098434, 85.32774]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df08b'), u'location': [27.7113301, 85.3083424]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df091'), u'Name': u'Maiti Devi Temple', u'location': [27.705968, 85.3341076]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df092'), u'Name': u'Bhimsen Temple', u'location': [27.7025272, 85.3042357]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df093'), u'location': [27.7114581, 85.3085568]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df094'), u'Name': u'Swa Chapu Ganesh', u'location': [27.710551, 85.3096834]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140d17cac0125f7df0a7'), u'Name': u'Military Hospital', u'location': [27.7113489, 85.2913585]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df0a8'), u'location': [27.7112444, 85.3087714]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df0a9'), u'Name': u'Indraini Temple', u'location': [27.7139951, 85.3026261]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df0af'), u'Name': u'Kalanki Temple', u'location': [27.694177, 85.2850611]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df139'), u'Name': u'Karya Binayak Temple', u'location': [27.6318702, 85.3023776]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df165'), u'Name': u'Om Pharmacy', u'location': [27.7033822, 85.3127057]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df17f'), u'location': [27.6903097, 85.531124]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df316'), u'location': [27.6988528, 85.5317852]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df4de'), u'Name': u'Mother Of Seto Machindra Nath', u'location': [27.6992947, 85.3075252]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df4fb'), u'location': [27.7234069, 85.5417968]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140d17cac0125f7df4ff'), u'location': [27.7184565, 85.5193487]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7df826'), u'Name': u'Kankeswori Mai', u'location': [27.7071744, 85.3027588]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7e021c'), u'Name': u'Bhagwati Temple', u'location': [27.6194792, 85.5511476]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7e021e'), u'Name': u'Ganesh Temple', u'location': [27.6179442, 85.5534848]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140d17cac0125f7e0226'), u'Name': u'Krishna Temple', u'location': [27.6183884, 85.5522311]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e249b'), u'Name': u'Hanumanthan', u'location': [27.6885029, 85.3160104]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e24a3'), u'Name': u'Pabitra Progress Pharmacy', u'location': [27.7134784, 85.2990496]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e24b9'), u'location': [27.7133001, 85.2942484]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e24ca'), u'location': [27.7110774, 85.2952243]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e24db'), u'Name': u'Swayambhu Community Health Clinic', u'location': [27.7110872, 85.2954603]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e24e5'), u'location': [27.7106668, 85.2972694]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e2697'), u'Name': u'Banglamukhi Mandir', u'location': [27.6764147, 85.325923]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e269e'), u'Name': u'Kumbeshwor Mahadev Mandir', u'location': [27.6765808, 85.3260464]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e26a0'), u'Name': u'Pimbahal Pokhari Temple', u'location': [27.6760385, 85.3210083]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e26bf'), u'Name': u'Dhaga Ganesh Temple', u'location': [27.6387556, 85.5249932]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e26c0'), u'Name': u'Krishna Pranami Temple', u'location': [27.6382959, 85.5195918]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e26e1'), u'Name': u'Krishna Prasad Hospital', u'location': [27.6296267, 85.5237477]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e282b'), u'Name': u'Pancha Kumari', u'location': [27.6289464, 85.5333141]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e2953'), u'Name': u'Ganesh Temple', u'location': [27.6714052, 85.329158]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7e2957'), u'location': [27.6694288, 85.3251239]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e2960'), u'Name': u'Machhindra Bahal', u'location': [27.6701298, 85.3237128]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e29db'), u'location': [27.6697133, 85.328804]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e29e2'), u'Name': u'Jetha Bahal', u'location': [27.6687013, 85.326259]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e29e8'), u'Name': u'Batuk Bhairav', u'location': [27.668439, 85.3215617]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e29e9'), u'Name': u'global hospital', u'location': [27.667072, 85.3330204]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7e2e13'), u'Name': u'Family Health Clinic', u'location': [27.6752505, 85.3192745]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e3450'), u'location': [27.6747126, 85.3104125]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e3472'), u'Name': u'Shree Yula Sarswati Temple', u'location': [27.6770411, 85.3092901]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e347a'), u'location': [27.6795988, 85.3101707]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e34c8'), u'location': [27.6794317, 85.3084986]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e34ce'), u'Name': u'Santa Kabir SathSangha Mandir', u'location': [27.6787058, 85.3096032]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e371f'), u'Name': u'Adhinath temple', u'location': [27.6657792, 85.2913947]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e3743'), u'Name': u'Nasha Dya', u'location': [27.6696384, 85.2773925]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e5593'), u'Name': u'Hanumansthan', u'location': [27.6933877, 85.3275157]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e560d'), u'Name': u'Aliya Mandali Church', u'location': [27.6310778, 85.5281756]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e5620'), u'Name': u'Ganesh Temple', u'location': [27.6348182, 85.5275519]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e5622'), u'Name': u'Kavre Health Clinic', u'location': [27.6283867, 85.5242964]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e5626'), u'Name': u'Ganesh Temple', u'location': [27.6290615, 85.5219773]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e562e'), u'Name': u'Kavre Church', u'location': [27.6275357, 85.520772]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e563a'), u'Name': u'Shanti Ban', u'location': [27.6123454, 85.5664444]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e5663'), u'location': [27.6262386, 85.5310149]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e5696'), u'location': [27.6282823, 85.5286653]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e56cb'), u'Name': u'Chandeswori Medical Shop', u'location': [27.6302214, 85.52216]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e5743'), u'location': [27.6329819, 85.5238992]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e59b6'), u'Name': u'small roadside shrine', u'location': [27.6419687, 85.5411117]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e701d'), u'Name': u'Narayansthan', u'location': [27.7138635, 85.3196187]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e70d0'), u'Name': u'Ganesh Temple', u'location': [27.7137139, 85.3268259]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e70de'), u'Name': u'Narayan mandir', u'location': [27.7162334, 85.3258278]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e72da'), u'Name': u'Bal Kumari temple', u'location': [27.6691522, 85.2767531]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7e7343'), u'location': [27.8540835, 85.1882264]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7e75cc'), u'location': [27.8487573, 85.1918993]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e768d'), u'location': [27.8449319, 85.1926959]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e7817'), u'location': [27.8662462, 85.1937366]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e786e'), u'location': [27.8540387, 85.1875246]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e78d6'), u'location': [27.8534458, 85.1902015]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e7fde'), u'Name': u'Matsyanarayan temple', u'location': [27.6677838, 85.2494545]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e80d2'), u'Name': u'Nikhileswor Mahadevsthan', u'location': [27.7389224, 85.3507597]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140e17cac0125f7e80d7'), u'Name': u'Amar Club', u'location': [27.7382324, 85.3489497]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8110'), u'Name': u'Kumari Mandir', u'location': [27.736399, 85.3479168]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e81da'), u'Name': u'Mankamana Mandir', u'location': [27.7398081, 85.3509192]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e8331'), u'location': [27.6874829, 85.335067]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e834f'), u'location': [27.694617, 85.2851482]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e836c'), u'location': [27.694522, 85.2846762]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e848d'), u'Name': u'ShivaPuri Temple', u'location': [27.7248346, 85.330954]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e8a66'), u'Name': u'Dhanwantari Aryuved Hospital and Research Centre', u'location': [27.7324382, 85.3443527]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e8a83'), u'location': [27.7322083, 85.344712]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e8bc6'), u'Name': u'Medical hall ', u'location': [27.6853901, 85.320677]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e8ccb'), u'Name': u'alka', u'location': [27.6699219, 85.3098162]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e8cdf'), u'location': [27.674987, 85.3144487]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8d03'), u'Name': u'St. Marys School Church', u'location': [27.67582, 85.3123404]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8d06'), u'location': [27.6870169, 85.3241963]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8dc1'), u'Name': u'Hari Shankar Naryan temple', u'location': [27.6695643, 85.2774838]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e8dd1'), u'Name': u'Rusi Medical Hall', u'location': [27.7232476, 85.3335001]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140e17cac0125f7e8e53'), u'Name': u'kwaelachi falcha', u'location': [27.6744621, 85.3279651]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8e61'), u'location': [27.6809892, 85.3173458]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8ecc'), u'Name': u'Kumari Temple', u'location': [27.6911498, 85.3181079]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e8ee6'), u'Name': u'Indrayani', u'location': [27.6731574, 85.4268439]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e96b5'), u'Name': u'Shree Swait Kaali Mai Mandir', u'location': [27.7217795, 85.3276152]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e96e3'), u'Name': u'Tangal Ganeshsthan', u'location': [27.7170783, 85.3304429]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e96e9'), u'Name': u'Adit Pharmacy', u'location': [27.7167401, 85.3303491]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e96ee'), u'Name': u'Aarogya Aasharam', u'location': [27.7177784, 85.3305038]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9708'), u'Name': u'Abiral Pharmacy', u'location': [27.7188321, 85.3309027]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e970e'), u'Name': u'Shiddibinayak Pharmacy', u'location': [27.7199639, 85.3312409]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140e17cac0125f7e9965'), u'Name': u'Mahankal Youth Club', u'location': [27.7476526, 85.3490681]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e99eb'), u'location': [27.7497274, 85.3468976]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9a0c'), u'location': [27.7501757, 85.3467327]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9b45'), u'location': [27.6751696, 85.3247328]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9b4c'), u'Name': u'Ganesh mandir', u'location': [27.6739234, 85.3241444]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9b54'), u'Name': u'ganesh temple', u'location': [27.6756759, 85.3250934]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9b59'), u'location': [27.6736498, 85.3245184]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9d14'), u'Name': u'Safe Ways Pharmacy', u'location': [27.6716889, 85.339032]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9d15'), u'Name': u'Indira Pharmacy', u'location': [27.6716477, 85.3389251]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9d59'), u'Name': u'ram chandra temple', u'location': [27.7061326, 85.3408328]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9d86'), u'Name': u'Krishna medical hall', u'location': [27.7000109, 85.3217711]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7e9d8d'), u'location': [27.7000172, 85.3218067]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9ded'), u'Name': u'Nise Pharma', u'location': [27.7029685, 85.3226058]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9e01'), u'Name': u'Pharmaceuticals', u'location': [27.7009367, 85.3236517]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7e9e0c'), u'Name': u'Sai baba Pharmacy', u'location': [27.7040828, 85.322769]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7e9e12'), u'Name': u'Mata Manakamana Arogya clinic', u'location': [27.7048958, 85.322661]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9e19'), u'Name': u'Ganesh temple', u'location': [27.7057108, 85.3251957]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9e95'), u'location': [27.6922328, 85.3020351]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9ec0'), u'Name': u'Pachali Bhairab Temple', u'location': [27.6943699, 85.3051386]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9ec8'), u'Name': u'Buddhabari', u'location': [27.6981868, 85.3039181]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7e9ed8'), u'Name': u'Jagannath Temple', u'location': [27.69394, 85.3034406]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ea250'), u'Name': u'Ganesh Mandir', u'location': [27.7218376, 85.3354452]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ea41a'), u'Name': u'Komal Ganesh Tample', u'location': [27.7032366, 85.3249602]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eaab8'), u'Name': u'Baishnudevi Temple', u'location': [27.6676977, 85.2498447]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140e17cac0125f7eaaba'), u'Name': u'New Generation Youth Club', u'location': [27.6658644, 85.2649534]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eab40'), u'location': [27.6725408, 85.275136]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ead1f'), u'Name': u'Heart Clinic', u'location': [27.7383516, 85.3349716]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ead21'), u'Name': u'Chun Devi Temple', u'location': [27.7354249, 85.3377824]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ead2b'), u'Name': u'Shree Ram Pharmacy', u'location': [27.7343909, 85.3306653]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb144'), u'location': [27.6689704, 85.2783032]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb145'), u'location': [27.6699395, 85.281444]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eb146'), u'Name': u'Bashundhara Dya:', u'location': [27.6704871, 85.280506]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb147'), u'location': [27.6705014, 85.2805315]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb148'), u'Name': u'Char Dhara', u'location': [27.6680557, 85.2785463]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb149'), u'location': [27.6685185, 85.2798887]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7eb14b'), u'location': [27.6694165, 85.2776147]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7eb897'), u'Name': u'Save the Life Community Polyclinic and Research Center', u'location': [27.6812511, 85.3443015]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ebfe5'), u'Name': u'M Family Polyclinic', u'location': [27.6716852, 85.339385]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec014'), u'Name': u'Radha Krishna Mandir', u'location': [27.6741059, 85.34132]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec2fe'), u'Name': u'Yentapau ganesh', u'location': [27.6821985, 85.3344381]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ec3b3'), u'Name': u'Deuti Clinic', u'location': [27.6827856, 85.3349166]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec3b5'), u'Name': u'Bigyan Clinic', u'location': [27.6827512, 85.3362696]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec3c0'), u'Name': u'Kalash Pharmacy', u'location': [27.6871424, 85.3381786]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec3d1'), u'Name': u'Shree Sankhabinayak Temple', u'location': [27.6837117, 85.3342978]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec403'), u'location': [27.6831015, 85.334776]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7ec448'), u'Name': u'Dirghayu health care pvt ltd', u'location': [27.6717683, 85.3152554]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec457'), u'Name': u'Love Church and Love library', u'location': [27.6629866, 85.3060056]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec464'), u'Name': u'Everest Sharansthan Babtist Church', u'location': [27.6631626, 85.306268]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec478'), u'Name': u'Epoch Pharmacia', u'location': [27.6649735, 85.3062381]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140e17cac0125f7ec4b9'), u'Name': u'Crystal Party Palace', u'location': [27.6705448, 85.3158868]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec4ba'), u'Name': u'Namuna Jivan Sangati Church', u'location': [27.6715598, 85.3067647]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140e17cac0125f7ec4c7'), u'Name': u'water tap', u'location': [27.6653774, 85.3060611]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ec4cf'), u'Name': u'Brigrade Boys Club community health center', u'location': [27.667407, 85.3168351]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec4de'), u'location': [27.6668325, 85.3190602]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec4e3'), u'Name': u'Shree Tripura Sundar Matako Mandir', u'location': [27.6776908, 85.3075378]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec4ea'), u'Name': u'Chhabaha Mandir', u'location': [27.6766785, 85.3215653]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec51b'), u'Name': u'Holy Christian Church', u'location': [27.67831, 85.3060905]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec527'), u'Name': u'Niko Pharmacy and Clinic', u'location': [27.6750274, 85.3079865]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ec546'), u'Name': u'Chhahari Nepal', u'location': [27.6750405, 85.3174344]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140e17cac0125f7ec552'), u'Name': u'Himalayan Healthcare Inc.', u'location': [27.6730443, 85.3167825]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ec565'), u'Name': u'Udaya Dental Service', u'location': [27.6756235, 85.3160219]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec59e'), u'Name': u'Karuna Pharmacy', u'location': [27.674658, 85.3204022]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec5a0'), u'Name': u'Purnachandi Mandir', u'location': [27.6733997, 85.3200255]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec5bb'), u'Name': u'Padmavatee MahaBihar', u'location': [27.6744901, 85.3197893]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec5c0'), u'Name': u'Saraswati Temple', u'location': [27.6825738, 85.3193501]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ec6fe'), u'Name': u'Sobha Bhagwati Temple', u'location': [27.7149682, 85.3009584]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec91e'), u'Name': u'Rasu pharmacy', u'location': [27.6715947, 85.4239745]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ec922'), u'Name': u'Pharmacy', u'location': [27.6704007, 85.4281489]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eca46'), u'Name': u'Balkumari Temple', u'location': [27.6759307, 85.3853607]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eca4a'), u'Name': u'Siddhikali Temple', u'location': [27.680756, 85.3830995]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eca6c'), u'Name': u'Chonga Ganesh', u'location': [27.674308, 85.4110065]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eca8a'), u'Name': u'Ganesh Temple', u'location': [27.6892631, 85.3242237]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eca95'), u'Name': u'Om Rudreshwor Temple', u'location': [27.6897149, 85.3284008]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140e17cac0125f7ecb94'), u'Name': u'Prakash poly clinic', u'location': [27.6959139, 85.3072493]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ecc7c'), u'Name': u'Siddhi Binayak', u'location': [27.6839021, 85.3082892]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140e17cac0125f7ecc7d'), u'Name': u'Surya Kiran Pharma', u'location': [27.6902774, 85.3054214]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eccaa'), u'location': [27.7244051, 85.3402367]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7eccab'), u'Name': u'Dhan Ganesh Mandir', u'location': [27.7199725, 85.3370706]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140e17cac0125f7ed32c'), u'location': [27.702577, 85.3448571]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ed3b9'), u'Name': u'Rishashwor Mahadev', u'location': [27.7341508, 85.3423814]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ed3ba'), u'Name': u'Daya Ganesh', u'location': [27.7341189, 85.342465]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ed83f'), u'Name': u'Jal Binayak Ganesh', u'location': [27.6890549, 85.3051704]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ed867'), u'Name': u'Siddhi Ganesthan', u'location': [27.7189146, 85.3104679]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eda09'), u'Name': u'Durga Bhawani Pharmacy', u'location': [27.7241631, 85.3397734]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7eda0c'), u'Name': u'Durga Bhawani Polyclinic', u'location': [27.7241352, 85.3397177]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edcb0'), u'location': [27.7245002, 85.3330497]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edce3'), u'Name': u'chariot end point', u'location': [27.672901, 85.3131022]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7edce9'), u'Name': u'Kabhreli Medical Hall', u'location': [27.7216188, 85.338381]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edceb'), u'Name': u'Krishna Temple', u'location': [27.7178247, 85.3363155]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd28'), u'Name': u'Asta Siddyi Ganesh Mandir', u'location': [27.7139542, 85.3327659]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7edd2c'), u'Name': u'Community Urban Health Clinic', u'location': [27.71853, 85.3346732]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd2d'), u'Name': u'Dakshinkali Mai ko Mandir', u'location': [27.7184882, 85.3349159]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd30'), u'Name': u'Garund Bagh Sadmukha Mandir', u'location': [27.7162357, 85.3338103]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd35'), u'Name': u'Nateshwori Mandir', u'location': [27.7155522, 85.3351207]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd3a'), u'Name': u'Saraswati Mandir', u'location': [27.7162369, 85.3357522]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd3b'), u'Name': u'Satya Narayan Mandir', u'location': [27.7158611, 85.3365802]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd3c'), u'Name': u'Shree Radha Krishna Devsthan', u'location': [27.7173258, 85.3329603]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd44'), u'Name': u'Hadigaun Bhuteshwor Mandir', u'location': [27.7178482, 85.3363133]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd54'), u'Name': u'Bhimsen Mandir', u'location': [27.7183072, 85.3348272]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7edd7e'), u'Name': u'Elexier Pharmacy', u'location': [27.7184393, 85.3150329]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edd83'), u'Name': u'Shree Narayan Temple', u'location': [27.719705, 85.3159465]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eddb4'), u'Name': u'Rishi Ayurvedic Medical Hall', u'location': [27.7172593, 85.3160946]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ede54'), u'Name': u'Dahi Binayak', u'location': [27.6720589, 85.4305049]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ede5f'), u'Name': u'Tripursundari Temple', u'location': [27.6727276, 85.4304269]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7edf62'), u'Name': u'shri kuleshwor hanuman mandir', u'location': [27.6865636, 85.2997078]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee0b0'), u'Name': u'Panchali Bhairab Temple', u'location': [27.7415503, 85.2864276]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee25f'), u'location': [27.6865461, 85.3092044]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee279'), u'location': [27.6890478, 85.3072369]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee27a'), u'location': [27.6901962, 85.3090932]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee39d'), u'Name': u'Nagarik Ayurved Pharma', u'location': [27.724077, 85.3138116]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee39f'), u'Name': u'Hira Med Pharma', u'location': [27.7228749, 85.3134657]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7ee3a3'), u'Name': u'United Medical Center', u'location': [27.7213523, 85.3178922]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7ee3a4'), u'Name': u'Samakhusi Community Clinic', u'location': [27.7245404, 85.3137911]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee3a5'), u'location': [27.7204963, 85.3154333]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee3a9'), u'Name': u'Dilasha Pharmacy', u'location': [27.7188192, 85.3124485]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee3aa'), u'location': [27.7234221, 85.3157336]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee3ae'), u'Name': u'Manoj Medical', u'location': [27.7209982, 85.3129186]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee3b6'), u'Name': u'Toran Pharmacy', u'location': [27.7191787, 85.3126519]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ee557'), u'location': [27.6782564, 85.4297347]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee577'), u'Name': u'temple', u'location': [27.6818997, 85.4298676]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7ee5a1'), u'location': [27.6865177, 85.4302981]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee5ae'), u'Name': u'temple', u'location': [27.6891765, 85.4300727]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee5b2'), u'Name': u'temple', u'location': [27.6896236, 85.4301685]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ee5ce'), u'location': [27.690739, 85.4298604]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eebb6'), u'Name': u'Shree Nateshwor Temple', u'location': [27.7185934, 85.3121179]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eebcc'), u'location': [27.7183927, 85.3100344]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eebcd'), u'Name': u'Navascmriti Polyclinic', u'location': [27.7213806, 85.3097048]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eebd9'), u'Name': u'Medicap Pharmacy and Clinic', u'location': [27.7212211, 85.3097439]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eebf2'), u'Name': u'Samyak Pharma', u'location': [27.7179918, 85.3098754]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eebfa'), u'Name': u'Shakya Pharma', u'location': [27.7180689, 85.3098128]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eec4e'), u'Name': u'Ganga Med Pharma', u'location': [27.7169938, 85.3117349]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eed1f'), u'Name': u'Citizens Medical Clinic', u'location': [27.7240811, 85.3064617]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eed2d'), u'Name': u'Paiya-Kalika Pharmacy and Doctor Clinic', u'location': [27.7286264, 85.3122052]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eed6c'), u'Name': u'Chatraganga Medical Hall', u'location': [27.7332379, 85.311079]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eed6d'), u'Name': u'Nepal Immanuel Church', u'location': [27.7324186, 85.3123405]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eed77'), u'location': [27.7293773, 85.3118491]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eede4'), u'Name': u'Shree Kumari Temple', u'location': [27.7259267, 85.3174911]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eedf0'), u'location': [27.7248835, 85.3154027]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eedf1'), u'Name': u'Shree Dakshinkali Temple', u'location': [27.72665, 85.3182922]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7eee61'), u'Name': u'CIWEC Clinic Travel Medicine Center', u'location': [27.7202714, 85.3178811]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7eee7d'), u'Name': u'Bhaktapur Hospital Emergency Block', u'location': [27.6719841, 85.4225862]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eee8e'), u'Name': u'Akhil Medical', u'location': [27.6832751, 85.348377]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140f17cac0125f7eee9e'), u'Name': u'Everest Party Palace', u'location': [27.6850422, 85.3446605]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eeea2'), u'Name': u'Hey Bindabasini Pharma', u'location': [27.6829381, 85.3471681]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eeebd'), u'Name': u'Sathi Pharmacy', u'location': [27.6806548, 85.34582]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7eeec3'), u'Name': u'Singapore Gorkha Polyclinic', u'location': [27.680718, 85.3472155]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eeed0'), u'location': [27.6806123, 85.3482155]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eef0d'), u'location': [27.6826884, 85.3461021]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eef18'), u'location': [27.6842994, 85.3445608]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eef1e'), u'location': [27.6860841, 85.3446994]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eef2b'), u'location': [27.6858149, 85.3446339]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7eef9a'), u'Name': u'Bachar Medical Pharmacy', u'location': [27.6738575, 85.379912]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7eefcc'), u'Name': u'Chhuma Ganesh Temple', u'location': [27.6745426, 85.4305836]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef109'), u'location': [27.7101115, 85.3334445]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef111'), u'Name': u'Nepali Isai Mandali', u'location': [27.7124425, 85.3355647]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef164'), u'Name': u'Amitambha Budhha Stupa', u'location': [27.6658977, 85.2917759]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ef175'), u'Name': u'machhe pharmacy', u'location': [27.5868704, 85.51396]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7ef30c'), u'Name': u'Nepal Siddhartha Sadan Polyclinic', u'location': [27.7353807, 85.3151194]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7ef30f'), u'Name': u'Ojaswi Polyclinic', u'location': [27.7354881, 85.3184564]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7ef333'), u'Name': u'Sai Polyclinic and Diagnostic Centre', u'location': [27.7347513, 85.3162511]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef388'), u'Name': u'Nil Sarsaswati', u'location': [27.7201001, 85.3259275]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140f17cac0125f7ef4cb'), u'Name': u'Shahara Community Learning Center', u'location': [27.7210814, 85.331449]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7ef4d2'), u'Name': u'Dhungedhara', u'location': [27.720255, 85.3313629]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7ef50c'), u'Name': u'NAXAL PHARMA', u'location': [27.7134802, 85.3259117]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef52f'), u'location': [27.7131832, 85.3267744]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7ef631'), u'location': [27.6698129, 85.4334196]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7ef9fe'), u'Name': u'Community Water Tank', u'location': [27.7268722, 85.3355384]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7efa15'), u'Name': u'Amul Pharmacy', u'location': [27.7184124, 85.3314442]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7efad4'), u'Name': u'Nilam Pharma', u'location': [27.718093, 85.3349968]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7efae8'), u'Name': u'Bishes Pharmacy', u'location': [27.7180168, 85.3353782]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140f17cac0125f7efc8f'), u'Name': u'Shrijansheel Tole Community Hall', u'location': [27.7430263, 85.3332021]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7efd5d'), u'location': [27.7278989, 85.332508]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0110'), u'location': [27.6918624, 85.349231]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f011d'), u'location': [27.6895325, 85.3480267]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0b50'), u'Name': u'Thapa Gaun Mandir', u'location': [27.6915013, 85.33252]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f0b72'), u'Name': u'Chirayu National Hospital & Medical Institute', u'location': [27.6922425, 85.3301395]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f0b79'), u'Name': u'Amvi Dental Clinic', u'location': [27.6923541, 85.3299048]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0b7c'), u'Name': u'Radha Krishna Mandir', u'location': [27.6926605, 85.3291283]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f0b97'), u'Name': u'Infertility Center', u'location': [27.6903846, 85.32902]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0bce'), u'Name': u'Shree Satya Sai Kendra Minbhawan', u'location': [27.6887066, 85.3419918]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0bcf'), u'Name': u'Sudhan Pharma', u'location': [27.6888275, 85.3420998]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0bd1'), u'Name': u'Akrit Pharmacy', u'location': [27.6894481, 85.342586]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0bd4'), u'Name': u'Divya Jyoti Ausadhi Pasal', u'location': [27.6895795, 85.3424944]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0bd6'), u'Name': u'Om Shree Medical Hall', u'location': [27.691031, 85.3431849]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0bd8'), u'Name': u'Radha Krishna Mandir', u'location': [27.6902733, 85.3428759]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0c61'), u'Name': u'Ganesh sthan', u'location': [27.7231476, 85.3194217]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0c63'), u'Name': u'Sushil Poly Clinic', u'location': [27.726512, 85.3142719]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f0c9d'), u'Name': u'Naagthan', u'location': [27.70269, 85.3423298]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0dea'), u'Name': u'Barsha Pharmacy', u'location': [27.7233677, 85.3243127]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f0ea8'), u'location': [27.7253419, 85.3312723]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f11f8'), u'Name': u'lamatar health post', u'location': [27.6325313, 85.3910696]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140f17cac0125f7f2197'), u'location': [27.6588933, 85.252013]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140f17cac0125f7f219a'), u'location': [27.6592307, 85.2520184]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140f17cac0125f7f219f'), u'location': [27.6590121, 85.2520158]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559140f17cac0125f7f24a2'), u'Name': u'Shree Ram Party Palace', u'location': [27.5863092, 85.5149425]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f29c6'), u'Name': u'bhairavnath temple', u'location': [27.6158528, 85.5339638]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f2ae2'), u'Name': u'Shanti Pharmacy', u'location': [27.6768948, 85.3160338]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f3313'), u'location': [27.6682251, 85.2756644]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f3314'), u'location': [27.6686324, 85.2764277]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f3316'), u'location': [27.6688269, 85.2768768]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f3317'), u'location': [27.6688577, 85.2764787]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f3318'), u'location': [27.670157, 85.2778429]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f331a'), u'location': [27.6702482, 85.2784804]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f331b'), u'location': [27.6704348, 85.2785693]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f331c'), u'location': [27.670433, 85.2789554]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559140f17cac0125f7f331d'), u'location': [27.6705629, 85.278218]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f3af7'), u'Name': u'ganeshthan', u'location': [27.6308389, 85.3902266]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f415a'), u'Name': u'Shrine', u'location': [27.7120292, 85.3192748]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f4195'), u'Name': u'Statue of Sleeping Narayan', u'location': [27.6765998, 85.4312982]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f45f7'), u'Name': u'Vayodha Hospital', u'location': [27.6847017, 85.2983287]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f4fcd'), u'Name': u'Kali Mata Mandir', u'location': [27.71825, 85.3122746]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f5356'), u'location': [27.7023697, 85.3043748]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559140f17cac0125f7f5954'), u'Name': u'Shorha Khutte Pati', u'location': [27.6750753, 85.2813342]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f59bb'), u'location': [27.7020766, 85.3038811]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f5bb3'), u'Name': u'Ishwori Medical Hall', u'location': [27.7311704, 85.3267038]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f5d45'), u'Name': u'Shiva Ram Temple', u'location': [27.8139324, 85.2675821]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f5fa6'), u'location': [27.7204367, 85.3244645]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f5faa'), u'Name': u'New Amar Medical Hall', u'location': [27.7208481, 85.3265009]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7f6ccf'), u'Name': u'Xeno Clinic Service', u'location': [27.7256153, 85.3233303]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7f6d14'), u'Name': u'Gaun Ghar Clinic', u'location': [27.7452741, 85.3588122]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f6d16'), u'Name': u'Krishna Mandir', u'location': [27.7448906, 85.3598376]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f6d26'), u'location': [27.7439825, 85.3618599]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f6d27'), u'location': [27.7440505, 85.3618801]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f6d49'), u'location': [27.7463325, 85.3570139]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f7ec8'), u'Name': u'Yatu Mahadev Temple', u'location': [27.682419, 85.4484526]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f7ef4'), u'Name': u'Hasta Panchayan Temple', u'location': [27.7422219, 85.3332301]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f7f0e'), u'Name': u'Sahara pharmacy', u'location': [27.7372772, 85.3261061]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f7f15'), u'Name': u'Kedarashwor mahadev', u'location': [27.7373827, 85.3257608]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559140f17cac0125f7f7f9f'), u'Name': u'Subba Medical Centre Pvt ltd', u'location': [27.7378197, 85.3230411]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559140f17cac0125f7f7fac'), u'Name': u'Shiva Temple', u'location': [27.7351995, 85.3201917]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559140f17cac0125f7f8035'), u'Name': u'Santosh Medical', u'location': [27.739447, 85.3292426]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559140f17cac0125f7f8068'), u'Name': u'Diamond Poly Clinic', u'location': [27.7353383, 85.3211275]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7f8095'), u'Name': u'Sewa Polyclinic Pvt.Ltd', u'location': [27.7423744, 85.3330792]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f80fb'), u'Name': u'Durga Bhavani', u'location': [27.7387476, 85.3243965]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f80fc'), u'Name': u'Ayurvedic Medical Hall', u'location': [27.7388254, 85.3241691]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f80ff'), u'Name': u'Biraj Medical Hall', u'location': [27.7384091, 85.3245945]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f8751'), u'Name': u'Prasansa Mandali', u'location': [27.7461269, 85.3270074]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8753'), u'location': [27.6328559, 85.390704]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8754'), u'location': [27.6329961, 85.3902371]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8755'), u'location': [27.6326468, 85.3898375]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8756'), u'location': [27.6321217, 85.3897141]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8757'), u'location': [27.6325993, 85.3893332]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8758'), u'location': [27.6332532, 85.3888429]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8759'), u'location': [27.6334053, 85.3886417]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f875a'), u'location': [27.6335451, 85.3891439]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f875b'), u'location': [27.6340868, 85.3884025]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f875c'), u'location': [27.6346476, 85.388027]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8786'), u'location': [27.6323498, 85.3899769]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f8a6e'), u'Name': u'Gokarneshwor mahadev', u'location': [27.7396992, 85.3881736]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141017cac0125f7f8d3e'), u'location': [27.7187096, 85.3369741]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f8d3f'), u'location': [27.7187024, 85.3368995]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f8d65'), u'Name': u'Palas Medical Hall', u'location': [27.7183321, 85.338634]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f8ed0'), u'Name': u'Kistern Pharmacy', u'location': [27.7197441, 85.3390598]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f8eee'), u'location': [27.7197116, 85.3392307]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f976d'), u'Name': u'Zenux Pharmaceuticals', u'location': [27.7057986, 85.309448]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f978a'), u'Name': u'Ganesh Mandir', u'location': [27.7053325, 85.3080723]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f978b'), u'Name': u'Gorakhnath Mandir', u'location': [27.7051222, 85.3076667]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f9795'), u'Name': u'Saraswati Temple', u'location': [27.7047135, 85.3068795]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f9797'), u'Name': u'Ganesh Temple', u'location': [27.7037582, 85.3059924]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f979a'), u'Name': u'Krishna Temple', u'location': [27.7047889, 85.3069554]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f97a8'), u'location': [27.702641, 85.30439]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7f97f2'), u'location': [27.7022905, 85.3034129]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f97f9'), u'Name': u'Maru Ganesh', u'location': [27.7041903, 85.3059703]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f97ff'), u'Name': u'Ayushree Pharmacy', u'location': [27.7186294, 85.3307917]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7f9808'), u'Name': u'NEO Health Clinic & Lab Pvt.Ltd', u'location': [27.7186281, 85.3308012]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f982e'), u'Name': u'Abiral Pharmacy', u'location': [27.7186238, 85.3336562]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f985f'), u'Name': u'Binayak Badra Temple', u'location': [27.7451255, 85.347319]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f9a82'), u'Name': u'JanaSwastha Pharma', u'location': [27.677366, 85.436775]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f9afc'), u'Name': u'Openiz Medico Pharm', u'location': [27.7178809, 85.335847]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f9c5c'), u'Name': u'OK Pharma', u'location': [27.7216131, 85.3357126]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f9c73'), u'Name': u'Ason Ganesh', u'location': [27.7075298, 85.3122513]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7f9ce7'), u'Name': u'Lazimpat Sulav Clinic', u'location': [27.7204125, 85.3242895]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f9d3a'), u'location': [27.7212103, 85.3248935]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f9d40'), u'Name': u'Sandesh Pharmacy', u'location': [27.7204021, 85.324268]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141017cac0125f7f9f20'), u'Name': u'Banquet Club', u'location': [27.7181676, 85.3194822]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7f9f5a'), u'location': [27.7170263, 85.3335929]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7f9f91'), u'location': [27.7185423, 85.3220885]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa035'), u'Name': u'Flowrence Medical', u'location': [27.7163784, 85.3356122]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fa03d'), u'Name': u'Mahadev Mandir', u'location': [27.7158852, 85.3341278]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa0dc'), u'Name': u'Pawan Pharmacy', u'location': [27.7278646, 85.3348778]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa12e'), u'location': [27.7284157, 85.3325586]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fa164'), u'location': [27.7240585, 85.3255316]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fa169'), u'location': [27.7287225, 85.3273164]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141017cac0125f7fa175'), u'Name': u'Tent House and Party Palace', u'location': [27.7178968, 85.3274927]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa188'), u'Name': u'Bindu Pharma', u'location': [27.718785, 85.3367462]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa30e'), u'Name': u'Siddhi Pharma', u'location': [27.7147348, 85.332335]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa381'), u'Name': u'Ashish Medical Hall', u'location': [27.7305875, 85.3341933]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fa38f'), u'Name': u'Ganesh Mandir', u'location': [27.7065162, 85.3318587]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7fa528'), u'Name': u'Martina Medical Hall', u'location': [27.7311193, 85.3366352]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fa55c'), u'location': [27.7313153, 85.3368277]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fa568'), u'location': [27.6685232, 85.27608]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fa570'), u'Name': u'Balkumari Pharmacy', u'location': [27.6695988, 85.2779008]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7faae3'), u'location': [27.727363, 85.3368441]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fab40'), u'Name': u'New Medical Hall', u'location': [27.7292777, 85.338826]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fae4f'), u'Name': u'Kuleshwor Ganeshthan', u'location': [27.6899693, 85.2995848]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7faed3'), u'Name': u'Carving Hands Polyclinic & Diagnostics', u'location': [27.712118, 85.334081]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7faef7'), u'Name': u'Riddhi Sidhhi Pharmacy', u'location': [27.7129278, 85.3278543]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7faef8'), u'Name': u'Sanjeevani Medical Pharmacy', u'location': [27.7129576, 85.3276692]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7faf28'), u'Name': u'Mahesh Medical Hall', u'location': [27.7126193, 85.3347381]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7faf83'), u'location': [27.6689955, 85.2756267]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8b0'), u'Name': u'Church', u'location': [27.6711055, 85.2804641]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fb8b8'), u'Name': u'Guru Pharmacy', u'location': [27.6715357, 85.2793636]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8ba'), u'Name': u'Pahu Chiba', u'location': [27.6699138, 85.2783227]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8bd'), u'Name': u'Ganesh', u'location': [27.6719226, 85.279438]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8c2'), u'Name': u'Hekhli Chiba', u'location': [27.6693964, 85.2780108]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8dc'), u'Name': u'Ganesh Mandir', u'location': [27.7081525, 85.331486]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fb8df'), u'Name': u'Dhunge Dhara', u'location': [27.7072515, 85.3311438]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb8f6'), u'Name': u'Kumari Temple', u'location': [27.7099528, 85.3262248]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7fb8fb'), u'Name': u'Super X ray Clinic', u'location': [27.7079395, 85.3315521]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb938'), u'Name': u'Ja-rhun-hi-ti Dya', u'location': [27.6690638, 85.2770943]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb93c'), u'location': [27.6692241, 85.277179]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fb93d'), u'Name': u'Mahanbwa Chiba', u'location': [27.669336, 85.2770011]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbbd3'), u'Name': u'Ram Mandir', u'location': [27.7092678, 85.3276244]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbcf9'), u'Name': u'Dathal Chiba', u'location': [27.6685405, 85.2761049]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbcfb'), u'Name': u'Dhwa-kha-phah Jalbinantak', u'location': [27.6688113, 85.2768647]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbcfe'), u'Name': u'Halcha', u'location': [27.6685362, 85.2761589]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbcff'), u'Name': u'Lord Ganesh', u'location': [27.6695317, 85.2765437]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fbd01'), u'location': [27.6690485, 85.2768761]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fbd04'), u'location': [27.6695055, 85.2764807]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbd05'), u'Name': u'Lya-ba Chiba', u'location': [27.6694778, 85.2768578]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbd0c'), u'Name': u'Pine-kya-ba Chiba', u'location': [27.6694627, 85.2765477]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbd0e'), u'Name': u'Dhwa-kha-phah Chiba', u'location': [27.6688527, 85.2767325]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fbd0f'), u'location': [27.6694735, 85.2760554]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbd1d'), u'Name': u'nhu bahal', u'location': [27.5848802, 85.5152725]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fbd91'), u'Name': u'Ram Mandir', u'location': [27.7055019, 85.3268987]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141017cac0125f7fc1bd'), u'location': [27.6684901, 85.2760129]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fc668'), u'Name': u'Permeswor Phermacy', u'location': [27.6706299, 85.2791644]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141017cac0125f7fc683'), u'Name': u'Kunphen Tibetian Medicine', u'location': [27.713065, 85.3092366]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141017cac0125f7fc696'), u'Name': u'YETI HOSPITAL', u'location': [27.7024512, 85.2824017]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141017cac0125f7fc848'), u'Name': u'Yellow Star Club', u'location': [27.7178184, 85.3093197]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141017cac0125f7fc84c'), u'Name': u'Sasa Banquet', u'location': [27.7215988, 85.3079382]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fc87b'), u'Name': u'Shree Shiva mandir', u'location': [27.7181915, 85.3114453]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fc8b4'), u'Name': u'Ishor Bhakta gyan mandir', u'location': [27.7169487, 85.308717]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141017cac0125f7fc8cc'), u'location': [27.7195266, 85.3126478]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fc8da'), u'Name': u'Galkopakha Gairidhara', u'location': [27.7196626, 85.3127447]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fc922'), u'Name': u'Panacea Pharmacy', u'location': [27.6854127, 85.3195072]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fc955'), u'Name': u'Ganesh Temple', u'location': [27.6829624, 85.3174992]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fc96e'), u'Name': u'unani aushadhalaya', u'location': [27.6806686, 85.3150698]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fc980'), u'Name': u'FPAN', u'location': [27.6816545, 85.3155505]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141017cac0125f7fca60'), u'Name': u'Maha guthi Poly Clinic', u'location': [27.7176682, 85.3061261]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fca61'), u'Name': u'Pharmacy shop', u'location': [27.7177733, 85.3058839]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fcb19'), u'Name': u'Chaamunda Devi Mandir', u'location': [27.6787386, 85.3292076]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fcb1d'), u'Name': u'mandir', u'location': [27.6880113, 85.3309546]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fcb1e'), u'Name': u'Ganesh Mandir', u'location': [27.6789603, 85.3276976]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fcb21'), u'Name': u'Saraswati Mandir', u'location': [27.6788908, 85.3290511]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7fcb26'), u'Name': u'Chibaha', u'location': [27.6787088, 85.3289821]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fcc07'), u'Name': u'Akaram Medical Center', u'location': [27.7353371, 85.3377026]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fcc0b'), u'Name': u'Sai Nanglo Pharmacy', u'location': [27.7351904, 85.3314053]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fcc10'), u'Name': u'Agrima Pharmacy', u'location': [27.7348758, 85.3312567]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fcc24'), u'location': [27.7343626, 85.3306254]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7fcc25'), u'Name': u'Sunaulo Pharmacy', u'location': [27.7350148, 85.3311351]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141017cac0125f7fd592'), u'Name': u'KamalVinayak Sudhar Samiti', u'location': [27.6774784, 85.4390994]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141017cac0125f7fd5bf'), u'location': [27.6779868, 85.4384916]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7ff753'), u'Name': u'Saskar pharmacy', u'location': [27.7185236, 85.3813253]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f7ff759'), u'Name': u'Not named', u'location': [27.7147995, 85.3858137]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7ffb44'), u'Name': u'Shiva Mandir', u'location': [27.7518238, 85.0667002]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141017cac0125f7ffc4a'), u'Name': u'Mahadev Basi Helth post', u'location': [27.7504231, 85.0671042]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7ffebb'), u'Name': u'shiva ko mandir', u'location': [27.7367784, 85.2808571]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141017cac0125f7ffebc'), u'Name': u'Pachali Bhairab', u'location': [27.7386016, 85.2804923]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f8008b8'), u'Name': u'Sabek Pharmacy', u'location': [27.7349794, 85.3311012]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141017cac0125f8008be'), u'Name': u'Basu Pharmacy', u'location': [27.734949, 85.331061]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80105f'), u'location': [27.7021393, 85.3012731]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f8010eb'), u'Name': u'Radha Krishna MAndir', u'location': [27.7300593, 85.2874525]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141117cac0125f80294e'), u'location': [27.7099653, 85.4151387]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f8029be'), u'Name': u'Saraswati temple', u'location': [27.7095167, 85.4160466]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f802a11'), u'Name': u'Kumari Mandir', u'location': [27.7039743, 85.3451526]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f802a27'), u'Name': u'panauti hospital', u'location': [27.5923956, 85.5169801]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f802a5f'), u'Name': u'bhadrakali temple', u'location': [27.5850833, 85.5143703]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f802fe9'), u'location': [27.7529213, 85.3029445]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f808898'), u'Name': u'Nag Dewata', u'location': [27.6999181, 85.3453728]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80889a'), u'Name': u'Peepal Dev', u'location': [27.7000481, 85.3454505]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80913f'), u'Name': u'Bhimsen Gola', u'location': [27.6995691, 85.3445793]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141117cac0125f809a6b'), u'location': [27.726638, 85.3078477]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f809a6c'), u'Name': u'Bishwokarma', u'location': [27.6864011, 85.2379901]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f809a74'), u'Name': u'Kumari mandir', u'location': [27.6863595, 85.2379549]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141117cac0125f809ee8'), u'Name': u'KamalVinayak Pharma', u'location': [27.6773951, 85.4368419]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f80a2cf'), u'Name': u'Khushi Family Dental Clinic', u'location': [27.6855778, 85.3020197]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a2e8'), u'Name': u'Rato Machindranath Temple', u'location': [27.6703748, 85.3229193]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a2f6'), u'Name': u'Archana Baba Dham', u'location': [27.6711196, 85.3011884]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f80a313'), u'Name': u' Public Hospital', u'location': [27.6656582, 85.3054073]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f80a3cc'), u'Name': u'Saharibikash Clinic', u'location': [27.664126, 85.3085213]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a44f'), u'Name': u'Ganesh', u'location': [27.6640909, 85.3087199]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a4fb'), u'Name': u'Ganesh Temple', u'location': [27.6933671, 85.2464853]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a6ec'), u'Name': u'Sai Baba', u'location': [27.6730496, 85.3069022]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a765'), u'Name': u'Matatirtha Kunda', u'location': [27.679525, 85.2310688]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f80a7df'), u'Name': u'Nepal Veterinary Hospital', u'location': [27.6948215, 85.3112844]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80a7e2'), u'Name': u'Dakshinkali Temple', u'location': [27.6966881, 85.3086773]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141117cac0125f80a7e3'), u'Name': u'Blue Cross Hospital', u'location': [27.6937147, 85.3152583]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141117cac0125f80b81c'), u'location': [27.6737066, 85.3225536]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141117cac0125f80b81d'), u'Name': u'temple', u'location': [27.6736354, 85.3225348]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141117cac0125f80b822'), u'Name': u'panchamuni', u'location': [27.6736091, 85.3232492]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141217cac0125f80f636'), u'Name': u'Saraswoti Mandir', u'location': [27.7270135, 85.3548968]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141217cac0125f810369'), u'Name': u'Sali Nadi Temple', u'location': [27.7280924, 85.469356]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141317cac0125f81d7ca'), u'Name': u'radha-krishna temple', u'location': [27.5854389, 85.5184546]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141317cac0125f81d7fe'), u'Name': u'Kathan-Ganesh Temple', u'location': [27.5830574, 85.51411]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141317cac0125f81d7ff'), u'Name': u'Maha-Laxmi Temple', u'location': [27.584296, 85.5139946]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141317cac0125f81d804'), u'Name': u'bhimsen temple', u'location': [27.5836686, 85.5204805]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141317cac0125f81d807'), u'Name': u'Indrayeni temple', u'location': [27.5842817, 85.5144989]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141317cac0125f81de03'), u'Name': u'National Institute of Psychology', u'location': [27.694514, 85.3377708]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f81dfa1'), u'Name': u'dhungedhara', u'location': [27.6956713, 85.3378649]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141317cac0125f81f205'), u'Name': u'PS Medical', u'location': [27.6962726, 85.3374975]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141317cac0125f81f20d'), u'location': [27.6975856, 85.3380033]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141317cac0125f81f29a'), u'location': [27.6913755, 85.2985867]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f822015'), u'location': [27.6735117, 85.4346522]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f822023'), u'location': [27.6739138, 85.4345724]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f82250e'), u'location': [27.6777586, 85.3868848]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f822919'), u'location': [27.672409, 85.4270016]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f822957'), u'location': [27.6747729, 85.3876573]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141317cac0125f82295a'), u'location': [27.6774475, 85.3884566]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141417cac0125f8290b9'), u'Name': u'Harasiddhi Temple', u'location': [27.6184171, 85.5523652]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141417cac0125f82c943'), u'location': [27.6729426, 85.3304625]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141417cac0125f82ecf9'), u'Name': u'Mayurbarna Mahabihar', u'location': [27.6699318, 85.3306335]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141417cac0125f82ed01'), u'Name': u'Mahadevsthan', u'location': [27.6150353, 85.5658365]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141517cac0125f834aa0'), u'Name': u'clinic', u'location': [27.6703796, 85.4276644]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141517cac0125f834aa6'), u'Name': u'Temple of Bhairav', u'location': [27.6708065, 85.4282429]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141517cac0125f8358d6'), u'location': [27.6705654, 85.4290234]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141517cac0125f835e3f'), u'location': [27.7674754, 85.2997712]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141517cac0125f836461'), u'Name': u'Kushadevi Mandir', u'location': [27.5915679, 85.4736981]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141517cac0125f83bb8b'), u'location': [27.6705708, 85.3268302]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141517cac0125f83c916'), u'Name': u'Bhanu Ayurved', u'location': [27.6702616, 85.428472]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141517cac0125f83c954'), u'location': [27.6709139, 85.4294585]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141517cac0125f83c964'), u'Name': u'Jalacha', u'location': [27.6692806, 85.4280507]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842c89'), u'Name': u'IBahi', u'location': [27.6770125, 85.3279947]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141617cac0125f842c91'), u'Name': u'Divya Sanjivani Hospital', u'location': [27.70659, 85.2867382]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842c92'), u'Name': u'Su Bahal', u'location': [27.670774, 85.3302422]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842ca4'), u'Name': u'Karuna Bahi', u'location': [27.6766585, 85.3277745]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842cae'), u'Name': u'Yampi Bahi', u'location': [27.6767725, 85.3278469]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d11'), u'Name': u'Konti Bahi', u'location': [27.6772434, 85.3256336]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d22'), u'Name': u'Kam Bahal', u'location': [27.6762766, 85.327428]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d24'), u'Name': u'Om Bahal', u'location': [27.67588, 85.3278009]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d26'), u'Name': u'Tarau Nani', u'location': [27.676108, 85.3271625]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d28'), u'Name': u'Dhum Bahal', u'location': [27.6747063, 85.3257734]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141617cac0125f842d2b'), u'Name': u'Awa Guthi Chapa', u'location': [27.674343, 85.3279511]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d2c'), u'Name': u'Pinche Bahal', u'location': [27.6704573, 85.3308107]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f842d2d'), u'location': [27.6747091, 85.3282599]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d2e'), u'Name': u'Kwey Bahal', u'location': [27.6708893, 85.330408]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d30'), u'Name': u'Thaku Baha', u'location': [27.6708916, 85.3301076]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d32'), u'Name': u'Pilache Bahal', u'location': [27.6695875, 85.3310061]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d33'), u'Name': u'Tri Ratna Bihar', u'location': [27.6749012, 85.3276507]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f842d3d'), u'location': [27.6743981, 85.328107]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d3f'), u'Name': u'Vaisajya Bihar', u'location': [27.6746115, 85.3277392]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d43'), u'Name': u'Manikuta Bihar', u'location': [27.6749512, 85.3278545]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141617cac0125f842d45'), u'Name': u'Lalitpura Pati', u'location': [27.6757039, 85.3251565]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d4c'), u'Name': u'White Ganesh', u'location': [27.6759465, 85.3277231]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141617cac0125f842d4e'), u'Name': u'Takha falcha', u'location': [27.6744049, 85.3280262]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d4f'), u'Name': u'Chapat Ganesh', u'location': [27.6712004, 85.328855]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d50'), u'Name': u'Chyagma ', u'location': [27.6734142, 85.3288872]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f842d51'), u'location': [27.6706754, 85.3306279]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141617cac0125f842d56'), u'Name': u'Jabar aja and aji pati', u'location': [27.6740438, 85.3272162]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f842d59'), u'Name': u'Musa Ganesh', u'location': [27.6736589, 85.3268326]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f842e32'), u'location': [27.675438, 85.4230879]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141617cac0125f8453cb'), u'Name': u'bharosa', u'location': [27.6943238, 85.3370557]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141617cac0125f8453ee'), u'Name': u'Pashupati Medical Hall', u'location': [27.6951749, 85.3406385]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f84544c'), u'Name': u'Panchakumari Bhagwati Mandir', u'location': [27.6928463, 85.3385629]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141617cac0125f846212'), u'Name': u'S.S Clinic', u'location': [27.6741981, 85.3737393]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141617cac0125f846214'), u'Name': u'Nagarik Hospital', u'location': [27.6736354, 85.3749308]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f846216'), u'Name': u'Temple', u'location': [27.6748488, 85.3661352]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f846226'), u'location': [27.6826825, 85.3739404]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f84622f'), u'location': [27.6831718, 85.3672215]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f846231'), u'location': [27.6827965, 85.3713655]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141617cac0125f84626d'), u'Name': u'Dhunge Dhara', u'location': [27.678495, 85.3600332]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141617cac0125f846d9c'), u'Name': u'Prime Health Care Center', u'location': [27.720915, 85.3456062]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f846db8'), u'Name': u'Kalikasthan Mandir', u'location': [27.7032618, 85.3265188]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f846e2f'), u'Name': u'Dakshin Barahi Temple', u'location': [27.6681336, 85.3859703]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141617cac0125f846e3a'), u'Name': u'Nilbarahi Mandir', u'location': [27.6954342, 85.3963984]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84a980'), u'Name': u'yapi bhairab', u'location': [27.6988529, 85.4205463]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84aad7'), u'location': [27.6749065, 85.4331767]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141817cac0125f84ac82'), u'Name': u'Kantipur Dental Hospital', u'location': [27.736695, 85.3242921]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84b3e2'), u'location': [27.6435285, 85.4754235]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84bb0b'), u'Name': u'kotdevi', u'location': [27.6960101, 85.4323012]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141817cac0125f84be3c'), u'location': [27.6724316, 85.4333417]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141817cac0125f84c0f5'), u'Name': u'Nepal Diagnostic Center Pvt. Ltd.', u'location': [27.7010578, 85.3116341]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141817cac0125f84c0f9'), u'Name': u'Sundhara Dental Hospital', u'location': [27.701029, 85.3116341]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141817cac0125f84cb86'), u'Name': u'Buddha Dental Hospital', u'location': [27.7179837, 85.3464317]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141817cac0125f84cb8a'), u'Name': u'Biraj Dental Hospital and Research Center', u'location': [27.7168522, 85.3457733]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141817cac0125f84d949'), u'Name': u'Nawa Buddha Dental Care', u'location': [27.7188826, 85.3496422]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141817cac0125f84f87d'), u'location': [27.6706564, 85.4261597]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141817cac0125f84f883'), u'location': [27.6704028, 85.4268232]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141817cac0125f84f884'), u'location': [27.6704538, 85.42693]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141817cac0125f84f88a'), u'location': [27.6703845, 85.4271647]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84f88e'), u'Name': u'Mulakhu Gansh', u'location': [27.6704947, 85.4268002]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f84f890'), u'location': [27.6707195, 85.4262151]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141817cac0125f84f89c'), u'location': [27.6704025, 85.4271149]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141817cac0125f84fbda'), u'Name': u'Jana Varosa Poly Clinic', u'location': [27.7288844, 85.3639614]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141817cac0125f85014a'), u'location': [27.6988971, 85.4499714]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f850d96'), u'Name': u'Kalika Devi Mandir', u'location': [27.7597314, 85.3595917]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f850e9d'), u'Name': u'Ganesh Madir', u'location': [27.7618518, 85.3535669]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f85217a'), u'location': [27.7036906, 85.4612551]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f85295e'), u'Name': u'Chaturbahu Narayan', u'location': [27.701117, 85.4156739]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f853b77'), u'location': [27.6637931, 85.3149209]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141817cac0125f853d61'), u'Name': u'Siddhartha Poly Clinic', u'location': [27.7061565, 85.3200582]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141817cac0125f853db0'), u'Name': u'Kathmandu Dental Home', u'location': [27.7102514, 85.3129531]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141817cac0125f854c55'), u'Name': u'Jana Polyclinic', u'location': [27.6750119, 85.2771515]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f85593e'), u'Name': u'Siddhi Binayak', u'location': [27.6657569, 85.3207592]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141817cac0125f855c87'), u'Name': u'Devishowari Tempel', u'location': [27.6743831, 85.3597878]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141817cac0125f8561fb'), u'Name': u'Myajula banquets', u'location': [27.6618727, 85.3171264]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141917cac0125f856a40'), u'Name': u'Kutumsang Health Centre', u'location': [27.9277879, 85.4861824]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f856a54'), u'location': [27.9374245, 85.4816918]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f856b13'), u'Name': u'Gaurighat', u'location': [27.7130429, 85.3496906]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f856b14'), u'Name': u'Kirateshwor Mahadev', u'location': [27.712587, 85.3499265]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f856b15'), u'Name': u'525 Shivalinga', u'location': [27.7102307, 85.3485083]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f857092'), u'location': [27.6491398, 85.3332419]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141917cac0125f85732f'), u'location': [27.8114434, 85.4371549]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141917cac0125f857336'), u'location': [27.8141721, 85.4456848]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141917cac0125f85733b'), u'location': [27.7996492, 85.4339515]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f857523'), u'Name': u'nasa dua', u'location': [27.5842129, 85.5151332]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85906b'), u'Name': u'Swastik Dental Clinic', u'location': [27.7157793, 85.3040466]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85906c'), u'Name': u'shubhekshya poly clinic', u'location': [27.7150322, 85.3038536]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f85909f'), u'Name': u'Balkumari temple', u'location': [27.6120495, 85.318936]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f85923c'), u'location': [27.6707605, 85.4291961]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f859dc5'), u'location': [27.6044017, 85.3641584]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141917cac0125f85a586'), u'location': [27.5839449, 85.5159459]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141917cac0125f85ad65'), u'Name': u'Dhusaldhara', u'location': [27.6305566, 85.3446405]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141917cac0125f85af3b'), u'Name': u'Dhapakhel Pharmacy', u'location': [27.6284323, 85.3280301]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141917cac0125f85af50'), u'location': [27.6207623, 85.3399945]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f6a7'), u'Name': u'Lalitpur Poly Clinic', u'location': [27.666544, 85.3240926]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f6ba'), u'Name': u'Lalitpur Dental Service Center', u'location': [27.6833689, 85.3185887]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f6bc'), u'Name': u'Lumbini Dental Clinic', u'location': [27.6869285, 85.3173174]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f6c4'), u'Name': u'Lagankhel Dental Clinic', u'location': [27.6664931, 85.3240827]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f6cb'), u'Name': u'Advance Oral Dental Health', u'location': [27.6979921, 85.2973499]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f720'), u'Name': u'Sagarmatha Poly Clinic', u'location': [27.6984834, 85.2992744]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f722'), u'Name': u'Shuvarambha Dental Clinic', u'location': [27.6979286, 85.2981281]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f727'), u'Name': u'Sanjivani Clinic', u'location': [27.6967154, 85.3043502]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f85f740'), u'Name': u'Buddha Minimal Access International (MAI) Center', u'location': [27.6980033, 85.304213]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141917cac0125f86241b'), u'Name': u'Upatyaka Poly Clinic', u'location': [27.6758794, 85.3159633]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141a17cac0125f8629c3'), u'Name': u'Rameshwor Mahadev', u'location': [27.7228559, 85.3012969]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141a17cac0125f862a20'), u'Name': u'Ganesh Mandir', u'location': [27.7353975, 85.2964149]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f862b67'), u'Name': u'Ortho Dental Clinic', u'location': [27.6749699, 85.3144352]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f862b69'), u'Name': u'Prashanti Health Care Center', u'location': [27.6749845, 85.3144129]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f862b97'), u'Name': u'OroPlus Dental Clinic', u'location': [27.6755158, 85.3157718]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f863049'), u'Name': u'LKS Dental Solution', u'location': [27.689915, 85.3286846]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141a17cac0125f86750c'), u'Name': u'Maitidevi Temple', u'location': [27.707505, 85.325639]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675b0'), u'Name': u'Brighter Dental Clinic', u'location': [27.7002129, 85.3119907]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675c2'), u'Name': u'Mahabaudhha Clinic', u'location': [27.7057828, 85.3123618]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675c7'), u'Name': u'SRL Diagnostic', u'location': [27.6905262, 85.3180122]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675ce'), u'Name': u'Asia Pacific Poly Clinic', u'location': [27.6904652, 85.3180456]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675cf'), u'Name': u'Trishuli X-Ray and Clinic', u'location': [27.7057108, 85.3127797]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675d1'), u'Name': u'Asha X-Ray Clinic', u'location': [27.7056895, 85.3122599]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675d5'), u'Name': u'Cosmetic Dental Clinic', u'location': [27.6826895, 85.3181143]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675e5'), u'Name': u'Baluwatar Polyclinic', u'location': [27.7424711, 85.3327158]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f8675f5'), u'Name': u'Fronline Polyclinic', u'location': [27.6970122, 85.3457674]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141a17cac0125f867601'), u'Name': u'Khajana Polyclinic', u'location': [27.7056341, 85.3483953]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141a17cac0125f867770'), u'location': [27.6736263, 85.4299323]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141a17cac0125f86bae2'), u'Name': u'Nepal Police Hospital', u'location': [27.7310242, 85.3235715]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141a17cac0125f86e767'), u'location': [27.7179213, 85.359633]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141b17cac0125f86fb6f'), u'Name': u'Vatsala', u'location': [27.6723189, 85.4288306]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141b17cac0125f86fb74'), u'Name': u'Luhiti', u'location': [27.6726448, 85.4287308]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141b17cac0125f86fb75'), u'location': [27.671985, 85.4285453]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141b17cac0125f8708ed'), u'Name': u'Jhor Bahi', u'location': [27.6725599, 85.4232014]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141b17cac0125f8708f8'), u'Name': u'Bhaktapur Heart and Diabetic Center', u'location': [27.6723511, 85.4301681]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141b17cac0125f8708f9'), u'Name': u'Bulbul Hiti', u'location': [27.6722997, 85.4306914]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141b17cac0125f870900'), u'Name': u'Dhumawati', u'location': [27.6718964, 85.4303899]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141b17cac0125f879e0f'), u'Name': u'abc', u'location': [27.7165926, 85.2833194]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141b17cac0125f879ef4'), u'location': [27.7297316, 85.3810864]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b348'), u'Name': u'Shiva Temple', u'location': [27.6682836, 85.4301073]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b34e'), u'Name': u'Narayan Temple', u'location': [27.6683668, 85.4299825]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b757'), u'Name': u'Shiva Mandir', u'location': [27.6661251, 85.4297117]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b761'), u'Name': u'Nasdyo', u'location': [27.6692438, 85.4301422]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b815'), u'Name': u'Temple', u'location': [27.6682685, 85.4311302]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141c17cac0125f87b825'), u'Name': u'Bhadrakali Medical Hall', u'location': [27.6688639, 85.4297895]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b832'), u'Name': u'Saraswati Temple', u'location': [27.6685214, 85.4312207]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b835'), u'Name': u'Temple', u'location': [27.6698527, 85.4277723]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b843'), u'Name': u'Bhuichalo (earthquake) temple', u'location': [27.668506, 85.4313179]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87b845'), u'location': [27.6693322, 85.4293446]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559141c17cac0125f87b85b'), u'location': [27.6690302, 85.4263999]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87b88e'), u'Name': u'Kumari Khanepani', u'location': [27.670004, 85.431139]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87b8d5'), u'Name': u'Shrine to Ganesh', u'location': [27.6664661, 85.425559]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87bc00'), u'Name': u'Shree sheshnarayan temple', u'location': [27.6933565, 85.4309071]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87bc02'), u'Name': u'Ram Janaki temple', u'location': [27.6933256, 85.4310224]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87be3c'), u'location': [27.6942528, 85.4229051]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87beb8'), u'Name': u'Well', u'location': [27.6959758, 85.4297949]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87beeb'), u'Name': u'temple', u'location': [27.6896695, 85.4301852]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87c13d'), u'Name': u'Ganesh Temple', u'location': [27.6851278, 85.4223897]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87c15b'), u'Name': u'Ganesh Mandhir', u'location': [27.6698202, 85.4286595]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87c160'), u'location': [27.6695949, 85.4262063]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87c162'), u'location': [27.6698339, 85.4286294]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87c16b'), u'location': [27.6697095, 85.4268705]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87c17c'), u'Name': u'water tap', u'location': [27.690408, 85.427215]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87c1ae'), u'Name': u'ganesh mandir', u'location': [27.6862256, 85.4303062]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87c215'), u'Name': u'Chhinamasta Durga Mandir', u'location': [27.6884893, 85.4216472]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559141c17cac0125f87c27d'), u'Name': u'patanjali yoga center', u'location': [27.6949636, 85.423102]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141c17cac0125f87c3cc'), u'location': [27.668882, 85.4262226]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87f0a7'), u'Name': u'Tusaleshwor', u'location': [27.7312537, 85.3341193]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87f117'), u'location': [27.7314892, 85.3364993]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141c17cac0125f87fbc0'), u'location': [27.7366893, 85.3426897]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f893a97'), u'Name': u'Sri Mata Kumari Temple', u'location': [27.7291133, 85.3446834]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f8941eb'), u'location': [27.737949, 85.3457351]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89572a'), u'Name': u'Raktakali Temple', u'location': [27.7087653, 85.3069883]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89572c'), u'Name': u'Ganesh Temple', u'location': [27.7087001, 85.3076823]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f895742'), u'Name': u'Narayan Temple', u'location': [27.7082973, 85.3103379]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f896224'), u'Name': u'Punarjeevan Medical hall', u'location': [27.6585239, 85.3227092]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89627e'), u'Name': u'kirat mandir', u'location': [27.6492036, 85.3332735]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89640d'), u'Name': u'BanglaMukhi Temple', u'location': [27.7438616, 85.3386707]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f896456'), u'Name': u'Pabitra Bihar', u'location': [27.6706479, 85.2775974]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89645a'), u'Name': u'Kakancho Binayak Ganesh Temple', u'location': [27.7037216, 85.2972739]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89645b'), u'Name': u'Narayan Temple', u'location': [27.6703782, 85.2780087]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89645c'), u'Name': u'Lyaba Chiba', u'location': [27.6701907, 85.2778662]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8964a8'), u'Name': u'Palanchowk Bhagwati Mandir', u'location': [27.6984556, 85.3071793]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8964ad'), u'Name': u'Ganesh Temple', u'location': [27.6976863, 85.3068501]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f8964e2'), u'location': [27.7108866, 85.3481555]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f8964e3'), u'location': [27.7106831, 85.3480076]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8968b9'), u'Name': u'Ganesh', u'location': [27.7022543, 85.3041905]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f896926'), u'Name': u'Ganesthan', u'location': [27.7015757, 85.3401466]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89693a'), u'Name': u'Balakhu ganesh temple', u'location': [27.6726473, 85.4293774]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f896ae5'), u'Name': u'Bhasmesor Temple', u'location': [27.7097584, 85.348373]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f896bc8'), u'location': [27.6844694, 85.2501292]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f896d37'), u'location': [27.8942929, 85.1474712]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f896d3a'), u'Name': u'Toilet Water Tank', u'location': [27.8939277, 85.1477294]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f896d3b'), u'Name': u'Water Tank', u'location': [27.8939155, 85.1477135]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f896d53'), u'Name': u'Publict Water Tap', u'location': [27.8941258, 85.1483818]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f896f72'), u'location': [27.6754992, 85.2459571]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89717d'), u'Name': u'Shree Narayandevi Temple', u'location': [27.9043254, 85.18914]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f89717e'), u'location': [27.904278, 85.189097]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f89718d'), u'Name': u'tap', u'location': [27.9236932, 85.1502187]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f897278'), u'Name': u'Baghdwar', u'location': [27.8108112, 85.3907371]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f8972a2'), u'location': [27.7832604, 85.3821621]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8974cd'), u'Name': u'Balkumari Temple', u'location': [27.7101631, 85.3457126]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8974ce'), u'Name': u'Dakshinamurti', u'location': [27.711358, 85.3470006]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8974cf'), u'Name': u'Pacho Ganesh', u'location': [27.7112607, 85.3462217]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8974de'), u'Name': u'Bhuwaneshwori Temple', u'location': [27.7105311, 85.3463102]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8974e4'), u'Name': u'Chamunda Temple', u'location': [27.7237996, 85.3721179]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8975a4'), u'Name': u'anushree medico', u'location': [27.683781, 85.3333698]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975b5'), u'Name': u'Buddha Statue', u'location': [27.6712151, 85.3150658]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141e17cac0125f8975c6'), u'Name': u'Nirvana', u'location': [27.6710328, 85.3117033]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975c7'), u'Name': u'Tibetan gumba', u'location': [27.6680562, 85.3093302]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141e17cac0125f8975d0'), u'Name': u'oral dental home', u'location': [27.6719244, 85.3164271]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8975d2'), u'location': [27.6668409, 85.3137995]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8975db'), u'Name': u'Bethesba Pharmacy', u'location': [27.6709998, 85.3116944]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975e2'), u'Name': u'believers church', u'location': [27.6706003, 85.3117817]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975e4'), u'Name': u'shree karyashidhi ganesh', u'location': [27.673972, 85.3097008]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975e6'), u'Name': u'Shree Guru ganesh Temple', u'location': [27.6718143, 85.3120278]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f8975e7'), u'Name': u'Khanepani Upateka Ltd.', u'location': [27.6735317, 85.3130614]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8975ea'), u'Name': u'Homiyo Clinic', u'location': [27.6677191, 85.309317]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141e17cac0125f8975eb'), u'Name': u'Mobile Veterinary Hospital', u'location': [27.6736567, 85.3118654]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975ec'), u'Name': u'Nepal Naya Darsan Mandali', u'location': [27.6698295, 85.3125268]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975ef'), u'Name': u'Narmadeshwor Temple', u'location': [27.6718856, 85.3120734]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975f9'), u'Name': u'mahalaxmi temple', u'location': [27.6747488, 85.3104498]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8975fa'), u'Name': u'temple', u'location': [27.6689189, 85.3108577]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f897603'), u'Name': u'rossin pharmacy', u'location': [27.6667771, 85.3136499]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f897609'), u'Name': u'bhairab temple', u'location': [27.6720454, 85.3171125]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89760a'), u'Name': u'cross way community church', u'location': [27.6679099, 85.3112011]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f897611'), u'Name': u'ganesh temple', u'location': [27.6719789, 85.3170588]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f897622'), u'Name': u'temple', u'location': [27.6694963, 85.3126814]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f897625'), u'Name': u'Kriya Putri ghar', u'location': [27.6682045, 85.3115546]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f89762d'), u'Name': u'Drinking water', u'location': [27.7487417, 85.3201914]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89762e'), u'location': [27.6690919, 85.3129033]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f897633'), u'location': [27.6668367, 85.3138219]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141e17cac0125f8976ab'), u'location': [27.717371, 85.3473707]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8976b1'), u'location': [27.7172666, 85.3482129]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f8977ea'), u'Name': u'Tarkeswor Temple', u'location': [27.7284089, 85.3427058]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f8977fe'), u'Name': u'Shambhu Pharmacy', u'location': [27.6541652, 85.305659]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f897e07'), u'location': [27.7170777, 85.3579844]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141e17cac0125f897e1d'), u'Name': u'Kaldhara', u'location': [27.7164839, 85.3068511]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f898bec'), u'Name': u'Ganesh Temple', u'location': [27.7149096, 85.3085101]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141e17cac0125f899bee'), u'Name': u'Mahaguthi Pharmacy', u'location': [27.7175952, 85.3062092]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89a0d6'), u'Name': u'Saraswati temple', u'location': [27.6195112, 85.542117]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89be07'), u'Name': u'\u0905\u091c\u093f\u092e\u093e \u092e\u0928\u094d\u0926\u093f\u0930', u'location': [27.6764898, 85.3832455]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89be25'), u'Name': u'\u092d\u0948\u0930\u092c \u092e\u0928\u094d\u0926\u093f\u0930', u'location': [27.6759892, 85.3853207]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89be29'), u'Name': u'Bishnu Bir Temple', u'location': [27.6762287, 85.3839927]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89be3b'), u'Name': u'\u0932\u094b\u0915\u0947\u0936\u094d\u0935\u094b\u0930 \u092e\u0928\u094d\u0926\u093f\u0930', u'location': [27.6763795, 85.3856568]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141e17cac0125f89beea'), u'Name': u'Devighat temple', u'location': [27.8593762, 85.1079099]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141e17cac0125f89e8e0'), u'Name': u'Tarini Health Center', u'location': [27.7049515, 85.3084222]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f89f259'), u'Name': u'Manakamana Temple, Lele', u'location': [27.5744138, 85.3676042]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f89f25a'), u'Name': u'Phulchowki Temple, Lele', u'location': [27.574897, 85.3686449]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f89fbd9'), u'Name': u'Krishna Pharmacy', u'location': [27.6724679, 85.4320448]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a0bbc'), u'Name': u'sagar medical', u'location': [27.7095468, 85.3079605]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a0fe2'), u'location': [27.724333, 85.3317645]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a17de'), u'Name': u'Kashmiri Masjid', u'location': [27.7088591, 85.3174738]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a346c'), u'Name': u'Balkumari Temple', u'location': [27.6299247, 85.3209616]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a3d4d'), u'Name': u'Suryabinayak Temple', u'location': [27.6563094, 85.4234873]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a3ea0'), u'Name': u'Ganesh temple', u'location': [27.6323428, 85.5203792]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a6bd0'), u'Name': u'Ram Mandir', u'location': [27.6919366, 85.3058167]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a70d0'), u'Name': u'Kareshwor Temple', u'location': [27.6940531, 85.3478263]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a70d2'), u'Name': u'Katyani Mandir', u'location': [27.6954328, 85.344737]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a70e0'), u'Name': u'krishna mandir', u'location': [27.645191, 85.6031765]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a78a1'), u'Name': u'Shiva Mandir', u'location': [27.6874872, 85.3261337]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a78f7'), u'Name': u'Ganesh temple', u'location': [27.7233173, 85.3321943]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a793a'), u'Name': u'Neel-Barahi Mandir', u'location': [27.6918577, 85.3889836]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a7952'), u'Name': u'Ganesh Mandir', u'location': [27.6902908, 85.3883383]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a7953'), u'Name': u'Pacho Ganesh', u'location': [27.6917262, 85.3868811]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80a0'), u'Name': u'Baidhya nath bhandari ayurved dham', u'location': [27.7105149, 85.3383499]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141f17cac0125f8a80c2'), u'Name': u"Children's Diagnosis Center", u'location': [27.7169627, 85.3461845]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80c4'), u'Name': u'Helping Hands Pharmacy', u'location': [27.717272, 85.3463666]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a80c8'), u'Name': u'Bhimsen Mandir', u'location': [27.7169712, 85.3458305]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80cc'), u'Name': u'Samaj Dental Pharmacy', u'location': [27.7173908, 85.3463441]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141f17cac0125f8a80d8'), u'Name': u'Dental Clinic', u'location': [27.717054, 85.3453705]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80d9'), u'Name': u'Maa Durga Pharmacy', u'location': [27.7187293, 85.3464872]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80da'), u'Name': u'Medi Noor Pharmacy', u'location': [27.7183162, 85.3465601]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80db'), u'Name': u'Medi Plus Pharmacy', u'location': [27.7186901, 85.3465042]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80dd'), u'Name': u'Sundaram Pharmacy', u'location': [27.7182896, 85.3465601]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80e3'), u'Name': u'Space Pharmacy', u'location': [27.7180355, 85.3465477]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141f17cac0125f8a80ed'), u'location': [27.7183951, 85.3462019]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a80f7'), u'Name': u'Charu Medical Store', u'location': [27.7168827, 85.3455211]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a80fa'), u'Name': u'Shree Kumari Mandir', u'location': [27.7166076, 85.349376]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a8101'), u'Name': u'Kanchan Pharmacy', u'location': [27.7168291, 85.3453957]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a8131'), u'location': [27.7169907, 85.3458127]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141f17cac0125f8a813d'), u'Name': u'Siddhartha Buddha Dental Clinic', u'location': [27.7170063, 85.3459057]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a8147'), u'Name': u'Siphal Pharmacy', u'location': [27.7121179, 85.3406126]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a8154'), u'Name': u'Paneku tole Mandir', u'location': [27.7092052, 85.3390972]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a820f'), u'Name': u'Shree Nirvaneshwor Mandir', u'location': [27.7114496, 85.3446599]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a8228'), u'Name': u'Kumari sthan', u'location': [27.7133444, 85.346592]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559141f17cac0125f8a825d'), u'location': [27.7174587, 85.3475795]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a82da'), u'location': [27.7109077, 85.3435499]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141f17cac0125f8a82e9'), u'location': [27.7188785, 85.3468467]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559141f17cac0125f8a836b'), u'Name': u'Razam Medical Center', u'location': [27.7180973, 85.3471848]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141f17cac0125f8a8424'), u'location': [27.7167278, 85.3448796]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a8bf8'), u'Name': u'ganesh temple', u'location': [27.6861455, 85.342175]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a8cdb'), u'Name': u'Ganesh Chowk', u'location': [27.6337464, 85.5178688]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a9182'), u'Name': u'Mandir', u'location': [27.6817106, 85.3415559]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559141f17cac0125f8a919d'), u'location': [27.6915483, 85.3916855]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559141f17cac0125f8a919e'), u'Name': u'pharmacy', u'location': [27.6777442, 85.3385394]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a91ed'), u'Name': u'Ganesh Mandir', u'location': [27.6909653, 85.3887193]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a91ee'), u'Name': u'Mahadev Mandir', u'location': [27.6909601, 85.3887294]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a91ef'), u'Name': u'Narayan Mandir', u'location': [27.6908827, 85.3888303]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a9207'), u'Name': u'peepal bot', u'location': [27.6902783, 85.3886174]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a9208'), u'Name': u'peepal bot', u'location': [27.6905689, 85.3898665]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8a9225'), u'location': [27.6915993, 85.3917126]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8aa8a8'), u'Name': u'Dhunge Dhara', u'location': [27.7174842, 85.31283]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559141f17cac0125f8aaa6b'), u'Name': u'Bhagwan Bahal', u'location': [27.7156386, 85.3125554]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8aadec'), u'Name': u'Mahadev Mandir', u'location': [27.5883742, 85.3795695]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ab8f7'), u'Name': u'Nilkanthesor Mahadev', u'location': [27.6920903, 85.3935486]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8aba80'), u'Name': u'Sanjay Dental Clinic PVT.LTD', u'location': [27.6495322, 85.3588114]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8aba83'), u'Name': u'Nepal international clinic', u'location': [27.7130201, 85.3202114]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8aba95'), u'Name': u'Pharmacy', u'location': [27.6461949, 85.3566408]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abad8'), u'Name': u'Shree Siddhimangal Buddha Bihar', u'location': [27.6441045, 85.3606137]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abad9'), u'Name': u'Ganash Mandir', u'location': [27.6493809, 85.3551446]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abb44'), u'location': [27.6464292, 85.3568826]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142017cac0125f8abb69'), u'Name': u'Jatra Party Palace', u'location': [27.6518164, 85.3535533]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8abb75'), u'Name': u'Sddhipur pharmacy', u'location': [27.6505808, 85.3556101]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abb88'), u'Name': u'mahalaxmi mandir', u'location': [27.6921884, 85.3881367]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8abb97'), u'Name': u'divas pharmacy', u'location': [27.6527286, 85.3046369]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8abbaa'), u'Name': u'Subheta Clinic', u'location': [27.6545936, 85.305632]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8abbae'), u'Name': u'Samita Pharmacy', u'location': [27.6545498, 85.3056091]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abbcc'), u'location': [27.6531522, 85.3050922]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8abbf9'), u'Name': u'Pharmacy', u'location': [27.6794842, 85.3396305]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142017cac0125f8abc23'), u'Name': u'shree matri shishu swasthya kendra', u'location': [27.6903747, 85.3897068]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abc28'), u'Name': u'Small Ganesh Mandir', u'location': [27.6846413, 85.314063]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8abdec'), u'location': [27.6906973, 85.3891324]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8abded'), u'location': [27.6908691, 85.3887296]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8abdef'), u'Name': u'narayan mandir', u'location': [27.6918788, 85.3895768]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8abdf9'), u'location': [27.6918761, 85.3896708]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8abeca'), u'Name': u'Health Centre', u'location': [27.750684, 85.5322866]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac055'), u'Name': u'Krishna Temple', u'location': [27.6698089, 85.3279693]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac08f'), u'Name': u'Gorakhnath Mandir', u'location': [27.6916727, 85.3857143]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac090'), u'Name': u'Kumari Mandir', u'location': [27.6919577, 85.3858556]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac09c'), u'Name': u'Peepal bot', u'location': [27.6923842, 85.388481]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac09f'), u'Name': u'Narayan Mandir', u'location': [27.6913667, 85.3881342]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8ac8e5'), u'Name': u'Venus Medical', u'location': [27.7109063, 85.3432788]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ac9b0'), u'location': [27.6296829, 85.3021477]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142017cac0125f8aca35'), u'Name': u'Satya Sai Hospital', u'location': [27.6292701, 85.5284279]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8aca3d'), u'Name': u'Patanjali Chikitsataya Sewa Kendra', u'location': [27.6289042, 85.5278325]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8aca4a'), u'Name': u'Rameshwor Mandir', u'location': [27.6906968, 85.2728337]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8aca64'), u'Name': u'Baidhya Sher Bahadur Memorial Polyclinic (p) Ltd.', u'location': [27.6299331, 85.525507]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8aca8e'), u'Name': u'krishna mandir', u'location': [27.6630837, 85.4012316]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8acaa3'), u'Name': u'mahadev mandir', u'location': [27.6593164, 85.4088008]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8acc46'), u'Name': u'peepal dada water tank', u'location': [27.6652533, 85.4034789]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8accbb'), u'Name': u'Jhor Mahankal', u'location': [27.8014519, 85.321928]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8acd16'), u'Name': u'Shree Tramreshwor Mahadev Temple', u'location': [27.7118014, 85.3422001]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8acfa1'), u'Name': u'Great Stupa', u'location': [27.7428762, 85.3634667]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8acfa8'), u'Name': u'New Stupa', u'location': [27.7426613, 85.3635186]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8acfae'), u'Name': u'Small Stupas', u'location': [27.7422347, 85.3642979]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142017cac0125f8adac3'), u'Name': u'Vivanta Zahnklinik', u'location': [27.7092353, 85.3301507]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8adb59'), u'Name': u'Pingala Bihar', u'location': [27.7146083, 85.3427682]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142017cac0125f8adde5'), u'Name': u'Yarlung Language Center', u'location': [27.7261461, 85.3675067]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8addf7'), u'location': [27.7271119, 85.3688096]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8adf90'), u'Name': u'Chetrapalthan', u'location': [27.9230399, 85.3098818]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8adfb3'), u'Name': u'\u092e\u0939\u093e\u0915\u093e\u0932\u0940 \u0925\u093e\u0928', u'location': [27.9184616, 85.301407]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae174'), u'Name': u'Dhara', u'location': [27.6494714, 85.1247884]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae17b'), u'location': [27.6421464, 85.1199267]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ae17c'), u'Name': u'Ganesh', u'location': [27.6493449, 85.129039]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae180'), u'location': [27.6491571, 85.1308541]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8ae194'), u'Name': u'bajrabarahi temple', u'location': [27.6422272, 85.1198215]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae1b7'), u'location': [27.650623, 85.1212189]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae1b8'), u'location': [27.6509499, 85.1208519]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae1ca'), u'location': [27.6584258, 85.1160497]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142017cac0125f8ae207'), u'Name': u'Healthpost', u'location': [27.74921, 85.319254]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae53a'), u'location': [27.6517497, 85.1218328]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8ae58e'), u'location': [27.6521885, 85.1212129]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8aea48'), u'Name': u'Gokhureswor Mahadev', u'location': [27.6503164, 85.1122425]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8aec3c'), u'location': [27.6561195, 85.1292811]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8aeda7'), u'location': [27.6493809, 85.128829]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142017cac0125f8aedb7'), u'Name': u'Balami Medical Hall', u'location': [27.6491172, 85.1230296]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8af383'), u'Name': u'Manakamana Mandir', u'location': [27.6830802, 85.1220929]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8af3ad'), u'Name': u'Rishi Mandir', u'location': [27.660606, 85.1287922]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b00ac'), u'location': [27.6735999, 85.1216669]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b04cd'), u'location': [27.6617006, 85.1262197]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b0584'), u'location': [27.6632626, 85.1234855]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b0589'), u'location': [27.6413774, 85.1379997]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b0635'), u'Name': u'krishna mandir', u'location': [27.6646108, 85.1339146]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b089b'), u'location': [27.6577937, 85.124574]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b089c'), u'Name': u'Tanang Dhara', u'location': [27.6614806, 85.1237538]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08a1'), u'location': [27.6625363, 85.1258516]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b08a3'), u'location': [27.659582, 85.1252506]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08a4'), u'location': [27.6620886, 85.1258132]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08a5'), u'location': [27.6595888, 85.1252949]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08a6'), u'location': [27.6620047, 85.1243684]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08a9'), u'location': [27.6632146, 85.1254212]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b08aa'), u'location': [27.6641868, 85.1260918]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b0cec'), u'location': [27.6596324, 85.1228975]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b0d1f'), u'location': [27.6607764, 85.1230906]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b0d25'), u'location': [27.6610208, 85.1222958]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b1202'), u'location': [27.6522476, 85.1209863]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b208a'), u'location': [27.663633, 85.1284547]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b20da'), u'location': [27.6432456, 85.1181102]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b22f4'), u'Name': u'Banpale Dhara', u'location': [27.6604165, 85.1217202]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b2783'), u'location': [27.6574697, 85.1356837]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b34ba'), u'Name': u'Ganesh than', u'location': [27.6527125, 85.1227281]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b35d1'), u'location': [27.6508264, 85.1231374]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b362b'), u'Name': u'pasupati temple', u'location': [27.6497793, 85.1209054]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b3fc0'), u'location': [27.6341604, 85.1297464]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b401d'), u'Name': u'Uttpateshwor Temple', u'location': [27.6301656, 85.1307158]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b4196'), u'Name': u'Rikheswor Temple', u'location': [27.6305667, 85.1314887]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b46a5'), u'Name': u'Bhumeshwor Mahadev Temple', u'location': [27.6317839, 85.1231111]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b46aa'), u'Name': u'Saraswati Mandir Temple', u'location': [27.6288787, 85.1341546]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b46ae'), u'Name': u'Khola Kharkha Palchowk Mane', u'location': [27.6325544, 85.1213154]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b46af'), u'Name': u'Khola Kharkha Palchowk Mane', u'location': [27.6325558, 85.1213474]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b46b5'), u'Name': u'Khola Kharkha Palchowk Mane', u'location': [27.6325558, 85.1213332]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b4ee1'), u'location': [27.6494394, 85.1282251]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b53da'), u'Name': u'Ganesh Than', u'location': [27.6519976, 85.1207824]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142017cac0125f8b5b07'), u'Name': u'Purano Dhungedhara', u'location': [27.6492613, 85.13265]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142017cac0125f8b5bcf'), u'Name': u'Ganesh', u'location': [27.6515529, 85.1270358]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142017cac0125f8b5ce4'), u'Name': u'Markhu Swastha Chauki', u'location': [27.6198509, 85.151373]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8b7290'), u'Name': u'CDMC-16', u'location': [27.6732619, 85.2756202]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b7293'), u'Name': u'Balkumari Temple', u'location': [27.6731242, 85.2756283]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b7298'), u'Name': u'Indra Medical Hall', u'location': [27.6742198, 85.280414]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b729a'), u'Name': u'Public water tank', u'location': [27.6730957, 85.2757275]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b72b4'), u'Name': u'Balkumari Pith Nagaun', u'location': [27.6729615, 85.2744119]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b72f4'), u'Name': u'chikhu', u'location': [27.6707489, 85.2762875]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b744d'), u'location': [27.6464414, 85.3849197]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b7452'), u'Name': u'Indrayeni Temple', u'location': [27.7357503, 85.4477523]}
+{u'amenity': u'health_post', u'_id': ObjectId('5559142117cac0125f8b7521'), u'Name': u'dhungkharka upa swastha chowki', u'location': [27.524129, 85.4806603]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b79da'), u'Name': u'Kirtipur Neuro Center and Clinic', u'location': [27.670542, 85.2795723]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b7af6'), u'Name': u'Bhairab Mandir', u'location': [27.672543, 85.2838159]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b7fd2'), u'Name': u'Local Water Tap', u'location': [27.6686264, 85.2790961]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8332'), u'location': [27.673079, 85.277282]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8333'), u'location': [27.6733072, 85.2760227]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8344'), u'Name': u'Buddha chaitya', u'location': [27.6733072, 85.2760227]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b839d'), u'Name': u'Maja dega`', u'location': [27.6762631, 85.2776451]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8b83e3'), u'Name': u'shree naulo medical hall', u'location': [27.524214, 85.4785872]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b83e4'), u'location': [27.5241944, 85.4784506]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b83f5'), u'location': [27.5249585, 85.4984969]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8416'), u'location': [27.5242048, 85.4830194]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8b8a45'), u'Name': u'Nabin Pharma', u'location': [27.6748706, 85.2804596]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b8a4c'), u'Name': u'Jhigu Bagh Bhairab Polyclinic', u'location': [27.6750434, 85.2805971]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8a53'), u'location': [27.6764627, 85.2786572]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8a54'), u'location': [27.6764366, 85.2787403]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8a56'), u'location': [27.6767869, 85.278558]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8b8a5a'), u'Name': u'Rina Medical Hall', u'location': [27.6747905, 85.2806125]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8a5b'), u'location': [27.676376, 85.2794015]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8aec'), u'Name': u'Chirthu Bihar', u'location': [27.6781377, 85.2780519]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8aed'), u'location': [27.677111, 85.2788556]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b10'), u'Name': u'Gorakhnath', u'location': [27.6809341, 85.2737492]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8b8b16'), u'Name': u'Vajan falcha', u'location': [27.6771555, 85.2789172]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8b8b17'), u'Name': u'Khyun-phal-cha', u'location': [27.680588, 85.2746609]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8b1a'), u'location': [27.6771785, 85.278808]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b4f'), u'location': [27.6810074, 85.2736508]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8b51'), u'location': [27.6811881, 85.2730722]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8b8b57'), u'location': [27.6816393, 85.2731668]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8b58'), u'location': [27.6777845, 85.2784009]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b6e'), u'Name': u'Khyali Dya', u'location': [27.6799127, 85.274924]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b74'), u'Name': u'Shree Jay Bagesori Dega', u'location': [27.6773149, 85.2764483]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b76'), u'Name': u'Stupa', u'location': [27.6779726, 85.2758977]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b78'), u'location': [27.675737, 85.2771088]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8b8b82'), u'location': [27.6759775, 85.2769835]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8b8b97'), u'location': [27.6780684, 85.2754272]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8b9a'), u'location': [27.6775799, 85.2784975]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b9b'), u'Name': u'stupa', u'location': [27.6775104, 85.2765609]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8b9c'), u'Name': u'stupa', u'location': [27.6760603, 85.2770209]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8bb3'), u'location': [27.6780946, 85.2772609]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b8bca'), u'Name': u'Health information and Service Center', u'location': [27.6791264, 85.276338]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8b8bd1'), u'Name': u'Kirtipur United Club', u'location': [27.6791331, 85.2763629]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8be3'), u'Name': u'Basundhara Ma Tirtha', u'location': [27.6800543, 85.2750335]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8b8bed'), u'Name': u'Sun Star Club', u'location': [27.6784041, 85.2780592]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8bfa'), u'location': [27.6788654, 85.2774587]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8bfd'), u'location': [27.6796963, 85.2760764]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8c05'), u'location': [27.6815884, 85.2734222]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8cee'), u'location': [27.6802283, 85.2743584]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8cf0'), u'location': [27.6795385, 85.273456]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8d43'), u'location': [27.6768974, 85.2782714]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8d46'), u'Name': u'Karunakar Vihar (Kwe Baha)', u'location': [27.6763619, 85.278229]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8d68'), u'Name': u'Padmakirti Vihar (Kushi Baha )', u'location': [27.6767535, 85.2773832]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8d8a'), u'location': [27.677262, 85.2772255]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8d93'), u'location': [27.6767999, 85.2774417]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8dab'), u'location': [27.6780306, 85.276937]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8daf'), u'location': [27.6784122, 85.2767142]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8b8e26'), u'location': [27.6792966, 85.275491]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8e27'), u'location': [27.6793227, 85.275432]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8e2e'), u'location': [27.679236, 85.2753783]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8b8e37'), u'Name': u'Layku Bichah Guthi', u'location': [27.6794652, 85.2752107]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8e44'), u'location': [27.6796017, 85.2748319]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8e50'), u'location': [27.6798375, 85.2749599]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b8e51'), u'location': [27.6798591, 85.2750047]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b9851'), u'location': [27.6689586, 85.2770375]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b9858'), u'location': [27.6691148, 85.2766145]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b98d1'), u'Name': u'Medi Quest Laboratory Clinic Pvt. Ltd', u'location': [27.6795961, 85.3163513]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8b98dc'), u'Name': u'Medi Quest Laboratory Clinic Pvt. Ltd', u'location': [27.6795676, 85.3164076]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8b9f59'), u'location': [27.6786132, 85.2786042]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142117cac0125f8b9fe0'), u'Name': u'Omkar Clinic', u'location': [27.6696861, 85.3052843]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8ba010'), u'Name': u'Jaya DasDil Wasa Pasa (Pharmacy)', u'location': [27.674771, 85.2801149]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8ba09f'), u'location': [27.6989916, 85.3575544]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8ba1f1'), u'Name': u'Jhigu Das Pharma n Dental Care', u'location': [27.67474, 85.2785976]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8ba94b'), u'Name': u'Surya Chandra Pharmacy', u'location': [27.6746919, 85.2803588]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bc1ee'), u'Name': u'Om Construction', u'location': [27.568438, 85.6439594]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8bc1f6'), u'Name': u'Sai Shankar medical store', u'location': [27.7116487, 85.341605]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8bc1fb'), u'Name': u'Dhunghedhara', u'location': [27.7105719, 85.3439812]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8bc23a'), u'Name': u'depesh pharmacy', u'location': [27.7111668, 85.3425486]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bc27b'), u'Name': u'Small Ganesh Shrine', u'location': [27.6832538, 85.3130708]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8bcea7'), u'location': [27.6658083, 85.2953207]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bceaf'), u'location': [27.6585704, 85.2930005]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bcec7'), u'Name': u'Kathesimbhu Stupa', u'location': [27.7096019, 85.30983]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd5a7'), u'location': [27.6758735, 85.2767124]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd617'), u'location': [27.6776246, 85.2751649]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd618'), u'location': [27.6780835, 85.2752824]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd627'), u'location': [27.6776567, 85.275255]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8bd629'), u'Name': u'Pasa Pucha Yuba Club', u'location': [27.6771682, 85.2760083]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd646'), u'location': [27.67772, 85.2748185]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142117cac0125f8bd647'), u'Name': u'Samuhik Yuba club', u'location': [27.6780722, 85.2737684]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd64f'), u'location': [27.6786571, 85.27333]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8bd650'), u'location': [27.678701, 85.2732937]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd651'), u'location': [27.6787065, 85.2732813]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8bd65c'), u'location': [27.6786242, 85.2732504]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c02ca'), u'Name': u'human temple', u'location': [27.7273121, 85.3412188]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c02e6'), u'Name': u'Swet Ganesh', u'location': [27.7099056, 85.3047097]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c032d'), u'Name': u'Shesh Narayan Temple', u'location': [27.6161439, 85.2644916]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142117cac0125f8c094d'), u'Name': u'Ugratara Unique Polyclinic and Diagnostic Center', u'location': [27.6771191, 85.2810761]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142117cac0125f8c0955'), u'location': [27.6769586, 85.2808826]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c09a3'), u'Name': u'Shree Kali Mandir', u'location': [27.643393, 85.2854264]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c21b7'), u'location': [27.6762594, 85.3405379]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c229d'), u'location': [27.6704189, 85.2785703]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c22c2'), u'Name': u'Manka Dya', u'location': [27.6692491, 85.2781015]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c22cb'), u'location': [27.6687729, 85.2785869]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8c22cc'), u'location': [27.6689767, 85.2782047]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c22cd'), u'location': [27.6675971, 85.2770197]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c22d0'), u'Name': u'Siddhi Binayak Ganesh', u'location': [27.66892, 85.2782175]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142117cac0125f8c22e6'), u'Name': u'daefger', u'location': [27.683329, 85.5086851]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c2339'), u'Name': u'MahaLaxmi', u'location': [27.6711994, 85.277522]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c234e'), u'location': [27.6717966, 85.2797344]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c2376'), u'location': [27.671213, 85.2800885]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c23bc'), u'location': [27.6704607, 85.2804863]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c23cb'), u'location': [27.6710473, 85.2812735]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c23cd'), u'location': [27.6730528, 85.2793037]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c23ce'), u'location': [27.6711455, 85.2806512]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c23cf'), u'location': [27.6691914, 85.278603]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c2689'), u'location': [27.6729283, 85.2752239]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c268a'), u'location': [27.6727578, 85.2749127]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c268c'), u'location': [27.6725722, 85.2751145]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142117cac0125f8c268f'), u'location': [27.6732466, 85.275621]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c2690'), u'location': [27.6731152, 85.2756922]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c2692'), u'location': [27.6731246, 85.2757039]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c26ad'), u'location': [27.6732296, 85.2765014]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c26ae'), u'location': [27.673196, 85.2765395]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142117cac0125f8c26c9'), u'location': [27.6730712, 85.2744873]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c28a2'), u'Name': u'New Creation Chruch', u'location': [27.6007191, 85.3248804]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c28d2'), u'Name': u'Fruits worship', u'location': [27.666265, 85.3110507]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142117cac0125f8c28d3'), u'Name': u'crossway community chruch', u'location': [27.6673445, 85.31149]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142217cac0125f8c30f4'), u'Name': u'Nanglebhare Health Post', u'location': [27.7609085, 85.5176877]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142217cac0125f8c30f6'), u'Name': u'Bahirigaun Health Post', u'location': [27.677218, 85.266689]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142217cac0125f8c30fc'), u'Name': u'Syuchatar Health Post', u'location': [27.7027224, 85.2694403]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c568b'), u'location': [27.676004, 85.27954]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c568c'), u'location': [27.6760808, 85.2793029]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c568d'), u'location': [27.6762171, 85.2787791]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c59c3'), u'location': [27.6760238, 85.2770239]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559142217cac0125f8c59d0'), u'Name': u'Bahiri Gaun Yuwa Club', u'location': [27.6757349, 85.2770757]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c7ae0'), u'location': [27.6781447, 85.2753037]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c7ae3'), u'location': [27.6775974, 85.2765036]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c7ae4'), u'location': [27.6779573, 85.2758796]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c811a'), u'location': [27.6788742, 85.2741898]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c8120'), u'location': [27.6779512, 85.2760187]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c8124'), u'location': [27.679128, 85.2735619]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c8133'), u'location': [27.6795901, 85.2733151]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c814e'), u'location': [27.6816375, 85.2732247]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142217cac0125f8c815f'), u'location': [27.7991267, 85.467195]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142217cac0125f8c8162'), u'location': [27.7498202, 85.4966857]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142217cac0125f8c8167'), u'location': [27.791993, 85.4751791]}
+{u'amenity': u'shelter', u'_id': ObjectId('5559142217cac0125f8c8836'), u'location': [27.6788772, 85.2741771]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c884a'), u'location': [27.6782697, 85.2749017]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c884b'), u'location': [27.6777873, 85.2801977]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c884e'), u'location': [27.6781464, 85.2761962]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c8851'), u'location': [27.6788564, 85.2742334]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c8857'), u'location': [27.6806516, 85.2730765]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c8862'), u'location': [27.6631905, 85.2722579]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c88bb'), u'Name': u'Sharashwoti', u'location': [27.681898, 85.2610451]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c88e0'), u'location': [27.6821488, 85.2614388]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559142217cac0125f8c89b0'), u'location': [27.7486651, 85.3186371]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142217cac0125f8c89ed'), u'Name': u'Ganeshthan', u'location': [27.7496692, 85.318849]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142617cac0125f8f5922'), u'location': [27.7104481, 85.3121723]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559142817cac0125f90f8c9'), u'Name': u'Shechen Clinic', u'location': [27.7245529, 85.3598874]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142817cac0125f910176'), u'Name': u'Karma Thinley Gompa Teckchen Lekshey Ling', u'location': [27.7239075, 85.3698693]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142817cac0125f910264'), u'Name': u'Khenpo Tsultrim Ani Gompa', u'location': [27.7236472, 85.3665756]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142a17cac0125f91ac06'), u'Name': u'Pawo Gompa', u'location': [27.7254687, 85.3626479]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142a17cac0125f91ad33'), u'Name': u'Nunery', u'location': [27.7243757, 85.367803]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142b17cac0125f9264e2'), u'Name': u'IBA - International Buddhist Academy.', u'location': [27.7289554, 85.370079]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142c17cac0125f931247'), u'Name': u'temple', u'location': [27.5963518, 85.3864612]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559142e17cac0125f944646'), u'Name': u'Bharat medical', u'location': [27.6451905, 85.3195043]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559142e17cac0125f944647'), u'Name': u'Bharat medical', u'location': [27.6451905, 85.3195043]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142e17cac0125f94785c'), u'location': [27.710298, 85.3128515]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559142f17cac0125f94f0c2'), u'Name': u'Majipat Ganesh', u'location': [27.7013142, 85.3054251]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143117cac0125f9659ea'), u'location': [27.7215051, 85.3619246]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559143117cac0125f96763f'), u'location': [27.6830004, 85.3173854]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143317cac0125f987d15'), u'Name': u'Buddha Stupa', u'location': [27.7234803, 85.3021106]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559143317cac0125f989ba5'), u'location': [27.7206543, 85.3628772]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559143317cac0125f989ba6'), u'location': [27.7204414, 85.3629075]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559143417cac0125f98a0e0'), u'location': [27.7051759, 85.3133858]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559143417cac0125f98a1ef'), u'Name': u'Mentseekhang Tibetan Medicine', u'location': [27.7202533, 85.3639093]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143417cac0125f98b132'), u'Name': u'Nepal Vipassana Meditation Centre', u'location': [27.791706, 85.372021]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143517cac0125f99abb8'), u'Name': u'Shar Minub Ling', u'location': [27.7347263, 85.2793811]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143617cac0125f9a7cc6'), u'Name': u'Bhagawati Mandir', u'location': [27.7162898, 85.333894]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143717cac0125f9b84ac'), u'Name': u'Dharo', u'location': [27.7730351, 85.2801369]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143717cac0125f9b84b5'), u'Name': u'Dharo', u'location': [27.7729484, 85.2804413]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143717cac0125f9b84bf'), u'Name': u'Dharo', u'location': [27.7729461, 85.2795079]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143717cac0125f9b84c1'), u'Name': u'Padhero', u'location': [27.7732042, 85.2793774]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143717cac0125f9b84c2'), u'Name': u'Dharo', u'location': [27.7733353, 85.2805875]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143817cac0125f9c6189'), u'Name': u'Shree Bhairabi Temple', u'location': [27.9123066, 85.1632256]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143917cac0125f9c9379'), u'Name': u'Vedic Awas', u'location': [27.7239431, 85.2591471]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559143917cac0125f9c9400'), u'Name': u'White Temple', u'location': [27.7257568, 85.2614498]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559143917cac0125f9cd692'), u'location': [27.642762, 85.374549]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559143917cac0125f9cd693'), u'location': [27.6424772, 85.3759844]}
+{u'amenity': u'clinic', u'_id': ObjectId('5559143917cac0125f9cd694'), u'location': [27.6428419, 85.3736255]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559143a17cac0125f9d5acb'), u'Name': u'Padhero', u'location': [27.7729912, 85.2810126]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144817cac0125fa51a25'), u'Name': u'Monastery', u'location': [27.9236426, 85.6188074]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559144917cac0125fa5f6b8'), u'Name': u'Trishuli Hospital', u'location': [27.9246638, 85.1409889]}
+{u'amenity': u'community_centre', u'_id': ObjectId('5559144a17cac0125fa6be37'), u'Name': u'Nepal Music Director Association', u'location': [27.7081949, 85.3282144]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144a17cac0125fa716ac'), u'location': [27.6748679, 85.4359238]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144a17cac0125fa716ad'), u'location': [27.6747042, 85.4363324]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144a17cac0125fa716b5'), u'location': [27.6745212, 85.4366943]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144b17cac0125fa747bc'), u'Name': u'Thali Gumba', u'location': [27.7285086, 85.4035353]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144b17cac0125fa75585'), u'Name': u'Bhairab Ganesh Temple', u'location': [27.7225958, 85.4165358]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559144b17cac0125fa75587'), u'Name': u'Manakamana Mai', u'location': [27.7145098, 85.3964883]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559144c17cac0125fa81517'), u'location': [27.4446412, 85.275168]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559145117cac0125fabb080'), u'location': [27.7042066, 85.3064043]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145717cac0125faf4b7e'), u'Name': u'Chandrakesh Pharmacy', u'location': [27.7124722, 85.3286325]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145717cac0125faf4b89'), u'Name': u'Namrata Medical Hall', u'location': [27.7104644, 85.3280299]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145717cac0125faf4b90'), u'Name': u'Shree Di Sei Pharma', u'location': [27.7127821, 85.3286684]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145817cac0125faf7a47'), u'Name': u'Aashirvad Pharmacy', u'location': [27.7105873, 85.3110775]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559145817cac0125faf7a4f'), u'Name': u'Drubgon Jangchup Choeling Monestary', u'location': [27.7098176, 85.3099873]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145817cac0125faf7a61'), u'Name': u'Deraj Pharmacy', u'location': [27.7105555, 85.3108371]}
+{u'amenity': u'pharmacy', u'_id': ObjectId('5559145817cac0125faf7a62'), u'Name': u'Himshrinkhala Pharmacy', u'location': [27.7104771, 85.3119538]}
+{u'amenity': u'place_of_worship', u'_id': ObjectId('5559145817cac0125faf7a77'), u'Name': u'Netashwar', u'location': [27.7105494, 85.3109019]}
+{u'amenity': u'hospital', u'_id': ObjectId('5559145817cac0125faf85f8'), u'Name': u'Deuti pharmacy', u'location': [27.6830459, 85.335113]}
+{u'amenity': u'drinking_water', u'_id': ObjectId('5559145817cac0125fafbc2d'), u'Name': u'Dhunge dhara', u'location': [27.6812543, 85.360237]}
